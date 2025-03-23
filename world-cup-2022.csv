@@ -1,0 +1,1302 @@
+﻿Index,Minute,Team,Player,Position,Type,Shot outcome,Origin_Xcoord,Origin_Ycoord,Destination_Xcoord,Destination_Ycoord,Pass_Recipient
+5,0,France,Antoine Griezmann,Center Attacking Midfield,Pass,,61,40.1,48,43.2,Aurélien Djani Tchouaméni
+8,0,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,49.7,43.6,96,1.8,Olivier Giroud
+10,0,Argentina,Nahuel Molina Lucero,Right Back,Pass,,22.7,80,36,75.2,Rodrigo Javier De Paul
+16,0,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,41.1,73.9,23.2,62.8,Cristian Gabriel Romero
+19,0,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,24.7,59.4,21.5,32.2,Nicolás Hernán Otamendi
+22,0,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,24,27.1,21.7,49.3,Cristian Gabriel Romero
+25,0,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,22.1,49.8,24,27.3,Nicolás Hernán Otamendi
+28,0,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,21.7,24.5,26.6,3.1,Nicolás Alejandro Tagliafico
+32,0,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,29.2,2.5,45.6,4.2,Alexis Mac Allister
+38,1,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,44.1,3.8,20.8,11.9,Nicolás Hernán Otamendi
+40,1,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,21.7,17.7,19.7,33.3,Cristian Gabriel Romero
+43,1,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,30.9,42.5,27.9,22.6,Nicolás Hernán Otamendi
+46,1,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,29.8,29.2,27,45.9,Cristian Gabriel Romero
+49,1,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,32.1,54.5,25.9,31.6,Nicolás Hernán Otamendi
+52,1,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,24.7,29,5.6,42.3,Damián Emiliano Martínez
+56,1,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,3.9,43.4,53.1,72.9,
+61,1,France,Theo Bernard François Hernández,Left Back,Pass,,68.5,5.7,72.1,13.4,Adrien Rabiot
+64,1,France,Adrien Rabiot,Left Defensive Midfield,Pass,,72.3,13.4,73.6,4.7,Theo Bernard François Hernández
+68,1,France,Theo Bernard François Hernández,Left Back,Pass,,73.2,4,47.1,7.4,
+71,1,France,Theo Bernard François Hernández,Left Back,Pass,,61.2,7,44.1,37.4,Raphaël Varane
+74,2,France,Raphaël Varane,Right Center Back,Pass,,53.1,44.9,45.2,67.1,Jules Koundé
+77,2,France,Jules Koundé,Right Back,Pass,,43.2,70.3,58.2,77.4,Ousmane Dembélé
+81,2,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,72.6,0.1,69.6,7.6,Alexis Mac Allister
+84,2,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,67.4,20.7,77.5,36.9,Lionel Andrés Messi Cuccittini
+88,2,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,76.6,35.7,116.2,8.9,Ángel Fabián Di María Hernández
+91,2,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,116,8.9,104.9,49.3,
+95,2,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,93.1,53.2,100.4,57.7,Lionel Andrés Messi Cuccittini
+98,2,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,99.3,57.3,96.7,49.8,Rodrigo Javier De Paul
+101,2,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,96.7,49.8,110.9,44.6,Julián Álvarez
+103,3,France,Hugo Lloris,Goalkeeper,Pass,,9.2,35.5,67.8,60.7,Olivier Giroud
+106,3,France,Olivier Giroud,Center Forward,Pass,,67.8,60.7,75.5,63.3,Antoine Griezmann
+110,3,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,48.9,15.4,39.2,16.6,Nicolás Hernán Otamendi
+114,3,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,37.4,19.2,26,29.3,Cristian Gabriel Romero
+118,3,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,27.4,29.9,64.2,43.6,Lionel Andrés Messi Cuccittini
+122,3,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,64.2,43.6,57.2,26.7,Nicolás Hernán Otamendi
+124,3,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,57.2,26.7,54.4,37.8,Enzo Fernandez
+127,3,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,54.8,37.8,56.5,60.5,Cristian Gabriel Romero
+130,3,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,56.1,61.3,67.9,73.5,Nahuel Molina Lucero
+133,3,Argentina,Nahuel Molina Lucero,Right Back,Pass,,68.9,74.4,79,59.8,Lionel Andrés Messi Cuccittini
+136,3,France,Adrien Rabiot,Left Defensive Midfield,Pass,,47.5,14.5,50.5,20.7,
+140,3,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,67.9,59,49,60.3,Cristian Gabriel Romero
+143,3,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,50.5,58.1,89.3,3.6,Ángel Fabián Di María Hernández
+147,4,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,89.5,3.4,82.4,7.4,Nicolás Alejandro Tagliafico
+149,4,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,82.4,7.4,96.1,14.3,Alexis Mac Allister
+152,4,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,96.1,14.3,106.4,3.1,Ángel Fabián Di María Hernández
+157,4,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,108.9,0.1,93.1,5.7,Alexis Mac Allister
+161,4,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,87.8,7.6,82.6,35,Lionel Andrés Messi Cuccittini
+166,4,France,Kylian Mbappé Lottin,Left Wing,Pass,,38.8,46.8,32.1,30.5,Adrien Rabiot
+169,4,France,Adrien Rabiot,Left Defensive Midfield,Pass,,31.3,28.2,33.4,7.9,Theo Bernard François Hernández
+172,4,France,Theo Bernard François Hernández,Left Back,Pass,,33.6,7.9,38.3,14.9,Adrien Rabiot
+174,4,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,81.8,65.2,70.2,67.7,Rodrigo Javier De Paul
+177,4,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,84.6,49.8,103.6,15.5,Ángel Fabián Di María Hernández
+179,4,France,Jules Koundé,Right Back,Pass,,16.5,64.6,28.3,71.4,Ousmane Dembélé
+181,4,France,Ousmane Dembélé,Right Wing,Pass,,28.3,71.4,17.2,77.2,Jules Koundé
+184,4,France,Jules Koundé,Right Back,Pass,,17.2,77.2,27.2,68.4,Antoine Griezmann
+188,4,France,Antoine Griezmann,Center Attacking Midfield,Pass,,27.6,68.2,21.4,60.3,
+189,4,Argentina,Julián Álvarez,Center Forward,Pass,,98.7,19.8,92.3,21.5,Alexis Mac Allister
+192,4,Argentina,Alexis Mac Allister,Left Center Midfield,Shot,Saved,92.4,30,117.3,38.3,
+194,4,France,Hugo Lloris,Goalkeeper,Pass,,8.8,41.9,76,42.1,
+201,4,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,56.5,39.7,66.4,42.9,
+204,4,France,Adrien Rabiot,Left Defensive Midfield,Pass,,53.1,36.3,41.3,35.7,Dayotchanculle Upamecano
+207,4,France,Dayotchanculle Upamecano,Left Center Back,Pass,,41.5,35.7,58.7,7.4,Theo Bernard François Hernández
+210,5,France,Theo Bernard François Hernández,Left Back,Pass,,61.6,7.7,69.3,5.3,Kylian Mbappé Lottin
+213,5,France,Kylian Mbappé Lottin,Left Wing,Pass,,68.7,5.9,56.1,10.2,Theo Bernard François Hernández
+216,5,France,Theo Bernard François Hernández,Left Back,Pass,,55.7,10.2,41.3,16.2,Dayotchanculle Upamecano
+219,5,France,Dayotchanculle Upamecano,Left Center Back,Pass,,36.8,21.3,41.1,38.2,Aurélien Djani Tchouaméni
+222,5,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,43.9,51.3,66.8,60.1,Ousmane Dembélé
+225,5,France,Jules Koundé,Right Back,Pass,,56.7,76.7,21.9,51.3,Hugo Lloris
+227,5,France,Hugo Lloris,Goalkeeper,Pass,,19.9,51.1,27.2,56.6,Raphaël Varane
+230,5,France,Raphaël Varane,Right Center Back,Pass,,39.4,51.9,42.2,25.2,Dayotchanculle Upamecano
+233,5,France,Dayotchanculle Upamecano,Left Center Back,Pass,,44.3,23.3,69.3,5.1,Theo Bernard François Hernández
+241,5,France,Theo Bernard François Hernández,Left Back,Pass,,46.5,34.4,40.7,54.7,Jules Koundé
+244,5,France,Jules Koundé,Right Back,Pass,,37.9,54.7,34.5,34.8,Raphaël Varane
+246,5,France,Raphaël Varane,Right Center Back,Pass,,36.8,36.7,45.8,32.3,Theo Bernard François Hernández
+252,5,France,Adrien Rabiot,Left Defensive Midfield,Pass,,53.3,33.3,51.6,62.4,Ousmane Dembélé
+254,6,France,Ousmane Dembélé,Right Wing,Pass,,64.6,76.1,44.1,71.4,Jules Koundé
+257,6,France,Jules Koundé,Right Back,Pass,,42.4,66,33.2,55.6,Raphaël Varane
+260,6,France,Raphaël Varane,Right Center Back,Pass,,33.6,32.7,39.4,26.9,Dayotchanculle Upamecano
+263,6,France,Dayotchanculle Upamecano,Left Center Back,Pass,,46.7,22.6,54.6,39.1,Raphaël Varane
+266,6,France,Raphaël Varane,Right Center Back,Pass,,46,48.7,39.6,25.4,Dayotchanculle Upamecano
+269,6,France,Dayotchanculle Upamecano,Left Center Back,Pass,,39.6,25.2,33.8,36.5,Raphaël Varane
+272,6,France,Raphaël Varane,Right Center Back,Pass,,25.3,51.5,23.1,26.7,Dayotchanculle Upamecano
+275,6,France,Dayotchanculle Upamecano,Left Center Back,Pass,,23.6,27.3,50.9,64.1,Ousmane Dembélé
+278,6,France,Ousmane Dembélé,Right Wing,Pass,,52.2,66.7,45.8,60.5,Antoine Griezmann
+282,6,France,Antoine Griezmann,Center Attacking Midfield,Pass,,51.8,59,51.2,45.5,Aurélien Djani Tchouaméni
+286,6,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,63.8,13,61,5.1,Adrien Rabiot
+291,6,France,Adrien Rabiot,Left Defensive Midfield,Pass,,52.9,6.6,53.5,19.2,Aurélien Djani Tchouaméni
+295,6,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,50.9,26,46,49.4,Raphaël Varane
+298,7,France,Raphaël Varane,Right Center Back,Pass,,67,51.1,99.9,8.9,
+299,7,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,20.2,71.2,16.1,60.3,Nahuel Molina Lucero
+301,7,Argentina,Nahuel Molina Lucero,Right Back,Pass,,16.3,60.3,47.1,63.9,Lionel Andrés Messi Cuccittini
+306,7,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,34.3,50.2,38.8,53.4,Lionel Andrés Messi Cuccittini
+309,7,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,39.2,48.1,65.3,35.4,Alexis Mac Allister
+315,7,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,75.8,26.9,94.2,14.1,Ángel Fabián Di María Hernández
+318,7,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,98.5,10.2,92.9,11.3,Alexis Mac Allister
+321,7,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,89.5,12.3,84.1,21.3,Enzo Fernandez
+324,7,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,88,23.9,93.7,20.3,Alexis Mac Allister
+331,7,Argentina,Julián Álvarez,Center Forward,Pass,,110.6,17.9,106.4,12.3,Ángel Fabián Di María Hernández
+337,7,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,115.1,21.3,98.7,51.7,Rodrigo Javier De Paul
+340,7,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Shot,Blocked,99.2,47.9,108.1,,
+343,8,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,120,80,116.6,54.5,
+345,8,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,95.2,65.6,107.9,72.9,Lionel Andrés Messi Cuccittini
+350,8,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,108.2,74.4,86.3,67.5,Rodrigo Javier De Paul
+353,8,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,87.7,67.7,108.7,41.5,
+360,11,France,Hugo Lloris,Goalkeeper,Pass,,9,38.2,80.5,56,Olivier Giroud
+362,11,France,Olivier Giroud,Center Forward,Pass,,74.3,58.3,88.2,63.5,
+364,11,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,31.9,16.6,51.6,26.5,Julián Álvarez
+367,11,France,Adrien Rabiot,Left Defensive Midfield,Pass,,68.5,53.6,79.2,62.8,Antoine Griezmann
+369,11,France,Antoine Griezmann,Center Attacking Midfield,Pass,,78.5,63.3,82.6,57.3,Olivier Giroud
+371,11,France,Olivier Giroud,Center Forward,Pass,,79.8,58.1,84.5,49.4,
+374,11,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,35.6,33.9,39.4,30.5,Enzo Fernandez
+378,11,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,31.5,28.8,42,22.2,Alexis Mac Allister
+381,11,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,41.8,22,44.8,3.6,Ángel Fabián Di María Hernández
+384,11,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,43.9,2.7,31.1,5.3,Nicolás Alejandro Tagliafico
+387,11,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,31.1,5.3,18.7,14.1,Nicolás Hernán Otamendi
+390,11,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,18,14.7,6,33.5,Damián Emiliano Martínez
+393,11,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,6.5,41.6,10.1,48.9,Cristian Gabriel Romero
+396,11,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,9.3,48.9,27.9,48.1,Enzo Fernandez
+399,11,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,33.9,51.1,112.1,58.1,Julián Álvarez
+402,11,France,Raphaël Varane,Right Center Back,Pass,,8,22,2.6,29,Hugo Lloris
+405,11,France,Hugo Lloris,Goalkeeper,Pass,,3.3,29.7,53.1,19.2,
+406,11,Argentina,Nahuel Molina Lucero,Right Back,Pass,,67,60.9,64.7,49.3,Enzo Fernandez
+409,11,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,68.3,51.1,76.9,63.9,Rodrigo Javier De Paul
+412,11,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,79.8,70.1,79.8,54.3,Lionel Andrés Messi Cuccittini
+415,11,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,80.5,47.8,105.1,14.7,Ángel Fabián Di María Hernández
+418,11,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,106.4,16.2,106.4,39.1,Lionel Andrés Messi Cuccittini
+423,12,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,101.9,13,96.7,23.7,Rodrigo Javier De Paul
+427,12,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,96.7,24.7,97.8,33.7,Lionel Andrés Messi Cuccittini
+434,12,France,Hugo Lloris,Goalkeeper,Pass,,15.4,36.1,84.7,48.9,
+435,12,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,35.4,31.2,74.5,28.6,
+438,12,France,Raphaël Varane,Right Center Back,Pass,,45.2,52.4,65.7,71.6,Antoine Griezmann
+441,12,France,Antoine Griezmann,Center Attacking Midfield,Pass,,66.4,74.4,55.4,77.2,Jules Koundé
+444,12,France,Jules Koundé,Right Back,Pass,,61.2,77.4,74.7,65.6,Ousmane Dembélé
+453,12,France,Ousmane Dembélé,Right Wing,Pass,,90.3,66.3,93.3,19.2,Theo Bernard François Hernández
+456,13,France,Theo Bernard François Hernández,Left Back,Pass,,94.2,17.7,100.6,14.3,Kylian Mbappé Lottin
+459,13,France,Kylian Mbappé Lottin,Left Wing,Pass,,99.1,19.2,99.5,28.2,Adrien Rabiot
+463,13,France,Adrien Rabiot,Left Defensive Midfield,Pass,,99.5,28.2,116.6,29,Kylian Mbappé Lottin
+466,13,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,4.8,42.3,22.1,24.7,Nicolás Hernán Otamendi
+468,13,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,22.3,23,31.3,26,Enzo Fernandez
+470,13,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,31.5,26,23.6,19.6,Nicolás Hernán Otamendi
+473,13,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,23.4,21.5,14.8,51.3,Cristian Gabriel Romero
+477,13,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,16.5,55.1,57.8,43.8,Julián Álvarez
+479,13,Argentina,Julián Álvarez,Center Forward,Pass,,57.6,43.6,52.5,56.2,Lionel Andrés Messi Cuccittini
+481,13,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,52.5,56.4,59.5,52.6,Julián Álvarez
+484,13,Argentina,Julián Álvarez,Center Forward,Pass,,59.5,52.6,56.1,55.5,Lionel Andrés Messi Cuccittini
+487,13,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,63.8,33.7,79.2,10.4,Ángel Fabián Di María Hernández
+493,13,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,86.5,22.2,87.1,51.9,Lionel Andrés Messi Cuccittini
+496,13,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,95.2,48.5,104.9,35.2,Julián Álvarez
+499,13,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,94.8,20.5,109.1,21.5,Ángel Fabián Di María Hernández
+501,14,France,Hugo Lloris,Goalkeeper,Pass,,13.9,48.5,76.2,64.6,Olivier Giroud
+504,14,France,Olivier Giroud,Center Forward,Pass,,76.6,64.8,89,74.4,Ousmane Dembélé
+509,14,France,Ousmane Dembélé,Right Wing,Pass,,89.5,75.9,80,74.4,Olivier Giroud
+512,14,France,Olivier Giroud,Center Forward,Pass,,79.8,74.4,80.9,62.6,Antoine Griezmann
+521,14,Argentina,Julián Álvarez,Center Forward,Pass,,46.7,24.5,45.6,35.2,Rodrigo Javier De Paul
+524,14,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,52.7,39.9,62.9,23.5,Alexis Mac Allister
+527,14,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,64.4,20.7,75.6,9.6,Ángel Fabián Di María Hernández
+531,14,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,76.4,6.8,55.7,4.9,Nicolás Alejandro Tagliafico
+534,14,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,53.7,4,62.9,13.6,Alexis Mac Allister
+537,14,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,63.2,17.3,56.1,33.5,Enzo Fernandez
+540,14,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,55.2,37.6,66.8,71.4,Nahuel Molina Lucero
+542,14,Argentina,Nahuel Molina Lucero,Right Back,Pass,,68.1,72.4,47.3,61.8,Cristian Gabriel Romero
+545,14,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,47.3,57.5,51.2,25.6,Nicolás Hernán Otamendi
+548,15,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,62.3,20.9,77.3,3.1,Ángel Fabián Di María Hernández
+552,15,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,76.2,2.3,62.5,5.3,Nicolás Alejandro Tagliafico
+555,15,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,62.3,5.7,57.2,17.7,Enzo Fernandez
+558,15,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,57.6,17.7,47.3,22,Nicolás Hernán Otamendi
+561,15,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,46.9,23,48.4,27.1,Enzo Fernandez
+563,15,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,47.8,28.4,42.4,47,Cristian Gabriel Romero
+566,15,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,52.9,53.2,68.3,3.4,Ángel Fabián Di María Hernández
+569,15,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,68.3,3.4,56.3,12.8,Nicolás Hernán Otamendi
+572,15,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,54.2,17,91.8,78.6,Nahuel Molina Lucero
+574,15,France,Theo Bernard François Hernández,Left Back,Pass,,19.1,0.1,22.7,7.7,Adrien Rabiot
+576,15,France,Adrien Rabiot,Left Defensive Midfield,Pass,,27.6,5.9,19.7,17.1,Dayotchanculle Upamecano
+579,15,France,Dayotchanculle Upamecano,Left Center Back,Pass,,19.1,23.5,19.7,41.9,Raphaël Varane
+582,15,France,Raphaël Varane,Right Center Back,Pass,,39.8,57.7,33,71.6,Jules Koundé
+585,16,France,Jules Koundé,Right Back,Pass,,33.4,69,24.2,32.5,Dayotchanculle Upamecano
+588,16,France,Dayotchanculle Upamecano,Left Center Back,Pass,,27,31.8,45.2,6.4,Theo Bernard François Hernández
+591,16,France,Theo Bernard François Hernández,Left Back,Pass,,41.8,4.7,45.4,8.1,Kylian Mbappé Lottin
+596,16,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,89.3,58.8,110.2,56.8,Rodrigo Javier De Paul
+598,16,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,110.2,56.8,106.4,45.5,Lionel Andrés Messi Cuccittini
+602,16,Argentina,Ángel Fabián Di María Hernández,Left Wing,Shot,Off T,103.1,34.6,120,39.6,
+604,16,France,Hugo Lloris,Goalkeeper,Pass,,7,44.1,65.1,61.6,
+606,16,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,55,18.5,82.4,27.1,
+609,16,France,Raphaël Varane,Right Center Back,Pass,,27.4,54.3,26.6,38.9,Dayotchanculle Upamecano
+612,17,France,Dayotchanculle Upamecano,Left Center Back,Pass,,26.6,38.7,28.1,54.1,Raphaël Varane
+615,17,France,Raphaël Varane,Right Center Back,Pass,,38.5,59.8,63.8,77.4,Ousmane Dembélé
+618,17,France,Ousmane Dembélé,Right Wing,Pass,,68.7,65,62.7,51.9,Adrien Rabiot
+621,17,France,Adrien Rabiot,Left Defensive Midfield,Pass,,56.7,47.4,70.8,8.5,Theo Bernard François Hernández
+624,17,France,Theo Bernard François Hernández,Left Back,Pass,,73.2,8.5,83.7,4.9,Kylian Mbappé Lottin
+628,17,France,Kylian Mbappé Lottin,Left Wing,Pass,,81.8,5.1,68.9,7.7,Theo Bernard François Hernández
+631,17,France,Theo Bernard François Hernández,Left Back,Pass,,57.6,7.4,45,14.3,Dayotchanculle Upamecano
+634,17,France,Dayotchanculle Upamecano,Left Center Back,Pass,,45,18.1,42.6,51.9,Raphaël Varane
+637,17,France,Raphaël Varane,Right Center Back,Pass,,57.6,60.1,55.9,74.8,Jules Koundé
+640,17,France,Jules Koundé,Right Back,Pass,,53.7,75.9,68.9,77,Ousmane Dembélé
+643,17,France,Ousmane Dembélé,Right Wing,Pass,,70.6,77.6,75.8,71.4,Jules Koundé
+646,17,France,Jules Koundé,Right Back,Pass,,75.8,71.4,92.9,77.6,Ousmane Dembélé
+649,17,France,Ousmane Dembélé,Right Wing,Pass,,103.1,78.2,105.3,74.8,
+651,17,France,Jules Koundé,Right Back,Pass,,100.1,80,74.5,61.8,Raphaël Varane
+654,18,France,Raphaël Varane,Right Center Back,Pass,,74.9,59,69.1,41.9,Dayotchanculle Upamecano
+657,18,France,Dayotchanculle Upamecano,Left Center Back,Pass,,70.2,34.2,85.2,5.3,Theo Bernard François Hernández
+660,18,France,Theo Bernard François Hernández,Left Back,Pass,,85.4,5.3,86.7,14.1,Kylian Mbappé Lottin
+662,18,France,Kylian Mbappé Lottin,Left Wing,Pass,,86.7,14.1,103.6,7.9,Theo Bernard François Hernández
+669,19,France,Antoine Griezmann,Center Attacking Midfield,Pass,,112.3,13.4,114.1,43.4,
+672,19,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,4.3,36.3,8.6,47.8,Cristian Gabriel Romero
+674,19,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,14.6,49.1,29.6,47.8,Enzo Fernandez
+677,19,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,31.7,48.5,25.5,24.3,Nicolás Hernán Otamendi
+680,19,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,29.4,22.8,42.4,5.3,Nicolás Alejandro Tagliafico
+683,19,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,42,6.1,32.8,17.7,Nicolás Hernán Otamendi
+686,19,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,32.4,20.3,30,47.8,Cristian Gabriel Romero
+689,19,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,33.4,51.3,45.4,51.5,Rodrigo Javier De Paul
+691,19,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,45,52.3,33.6,54.5,Cristian Gabriel Romero
+694,19,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,33.4,56.8,48.6,74.8,Nahuel Molina Lucero
+697,19,Argentina,Nahuel Molina Lucero,Right Back,Pass,,50.1,75.2,41.6,62.4,Rodrigo Javier De Paul
+700,19,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,41.3,62,40.1,23.7,Nicolás Hernán Otamendi
+703,19,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,61.9,19.8,65.9,1.9,Ángel Fabián Di María Hernández
+706,19,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,65.5,2.5,51.2,14.5,Nicolás Hernán Otamendi
+709,20,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,48.4,14.7,39.2,40.1,Cristian Gabriel Romero
+712,20,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,40.9,47.2,49.9,48.3,Rodrigo Javier De Paul
+715,20,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,49.9,48.3,39.6,47,Cristian Gabriel Romero
+718,20,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,39.8,46.6,45.2,26.5,Nicolás Hernán Otamendi
+721,20,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,49.3,22.8,54.8,32.9,Enzo Fernandez
+724,20,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,56.1,33.9,71.1,56.4,Lionel Andrés Messi Cuccittini
+727,20,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,89.5,65,99.5,74.6,Nahuel Molina Lucero
+731,20,Argentina,Nahuel Molina Lucero,Right Back,Pass,,94.4,74.8,74.5,69.7,Rodrigo Javier De Paul
+734,20,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,73.9,68.2,65.9,33.9,Nicolás Hernán Otamendi
+737,20,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,65.9,32,74.7,33.3,Enzo Fernandez
+739,20,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,74.7,33.3,64.9,30.9,Nicolás Hernán Otamendi
+742,20,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,64.2,32.2,68.5,23,Enzo Fernandez
+746,20,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,68.7,22.6,54.8,41.6,Cristian Gabriel Romero
+749,20,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,54.6,46.1,56.7,64.7,Rodrigo Javier De Paul
+752,20,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,57,64.5,69.6,53.8,Enzo Fernandez
+759,20,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,92,35.2,94.2,47,Julián Álvarez
+761,20,Argentina,Julián Álvarez,Center Forward,Pass,,94.2,47,112.6,11.5,Ángel Fabián Di María Hernández
+771,22,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Shot,Goal,108,40,120,41.8,
+773,23,France,Olivier Giroud,Center Forward,Pass,,61,40.1,52.9,38,Adrien Rabiot
+775,23,France,Adrien Rabiot,Left Defensive Midfield,Pass,,55,34.2,46.9,44.4,Aurélien Djani Tchouaméni
+778,23,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,44.5,47.7,40,62.4,Jules Koundé
+781,23,France,Jules Koundé,Right Back,Pass,,39,63.9,33.2,52.6,Raphaël Varane
+784,23,France,Raphaël Varane,Right Center Back,Pass,,34.7,47.2,39,7,Theo Bernard François Hernández
+787,23,France,Theo Bernard François Hernández,Left Back,Pass,,38.5,7.4,97.2,9.8,Kylian Mbappé Lottin
+790,24,France,Kylian Mbappé Lottin,Left Wing,Pass,,98,0.1,87.5,7.7,Adrien Rabiot
+793,24,France,Adrien Rabiot,Left Defensive Midfield,Pass,,89.7,7.7,96.5,5.1,Kylian Mbappé Lottin
+796,24,France,Kylian Mbappé Lottin,Left Wing,Pass,,105.9,5.5,104.6,28.4,
+799,24,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,14.4,53,26.6,47.4,Ángel Fabián Di María Hernández
+806,24,Argentina,Julián Álvarez,Center Forward,Pass,,36.9,48.5,32.4,34.4,Alexis Mac Allister
+810,24,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,38.8,29.5,22.5,17.3,Nicolás Alejandro Tagliafico
+812,24,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,22.5,17,25.9,14.5,
+814,24,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,34.9,0.1,50.3,2.9,Alexis Mac Allister
+818,24,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,69.8,77.2,73,76.7,Jules Koundé
+821,25,France,Raphaël Varane,Right Center Back,Pass,,48.4,80,34.3,66.3,Dayotchanculle Upamecano
+824,25,France,Dayotchanculle Upamecano,Left Center Back,Pass,,41.3,53,45.2,48.5,Adrien Rabiot
+827,25,France,Adrien Rabiot,Left Defensive Midfield,Pass,,50.3,50.4,48,61.8,Aurélien Djani Tchouaméni
+830,25,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,48,62,66.4,66,Ousmane Dembélé
+832,25,France,Ousmane Dembélé,Right Wing,Pass,,66.4,66,56.7,63.7,Adrien Rabiot
+834,25,Argentina,Julián Álvarez,Center Forward,Pass,,63.4,16.4,55,19,Alexis Mac Allister
+837,25,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,58.5,17.7,54.4,24.3,Enzo Fernandez
+839,25,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,54.4,24.3,55,13.4,Nicolás Alejandro Tagliafico
+842,25,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,55,12.8,58,2.5,Ángel Fabián Di María Hernández
+849,25,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,45,4,45.4,10.8,Alexis Mac Allister
+852,25,France,Ousmane Dembélé,Right Wing,Pass,,80.3,70.8,88.8,56.2,Olivier Giroud
+858,26,France,Antoine Griezmann,Center Attacking Midfield,Pass,,90.1,55.1,106.4,33.5,
+866,28,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,28.3,41.2,88.6,63.9,Julián Álvarez
+870,28,France,Theo Bernard François Hernández,Left Back,Pass,,31.5,16.2,45.8,23.3,
+873,28,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,77.9,57.5,81.1,73.9,Lionel Andrés Messi Cuccittini
+879,29,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,120,80,116.4,43.6,
+883,29,France,Hugo Lloris,Goalkeeper,Pass,,10.1,9.6,64.4,44.2,Jules Koundé
+885,29,France,Jules Koundé,Right Back,Pass,,64.4,44.2,82.2,55.4,Ousmane Dembélé
+888,29,France,Ousmane Dembélé,Right Wing,Pass,,82.4,55.4,75.8,56.2,Antoine Griezmann
+890,29,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,44.3,23.9,34.7,21.1,Nicolás Alejandro Tagliafico
+893,29,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,34.7,20.5,38.8,26.7,Enzo Fernandez
+896,29,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,39.6,28,42.2,53.6,Nahuel Molina Lucero
+899,29,Argentina,Nahuel Molina Lucero,Right Back,Pass,,63.4,61.8,75.4,38.4,Julián Álvarez
+901,29,Argentina,Julián Álvarez,Center Forward,Pass,,75.6,38.9,62.5,42.9,Lionel Andrés Messi Cuccittini
+904,30,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,81.8,38.6,91.4,29.2,Alexis Mac Allister
+907,30,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,92.9,27.7,105.1,13.8,Ángel Fabián Di María Hernández
+909,30,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,106.8,12.8,111.1,79.5,Julián Álvarez
+911,30,France,Theo Bernard François Hernández,Left Back,Pass,,9.2,0.1,36.2,5.5,Olivier Giroud
+914,30,France,Olivier Giroud,Center Forward,Pass,,36.2,5.5,42.8,12.1,Kylian Mbappé Lottin
+916,30,Argentina,Nahuel Molina Lucero,Right Back,Pass,,77.3,68,88.2,60,Julián Álvarez
+919,30,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,31.9,20.1,42.4,13.9,Olivier Giroud
+922,30,France,Olivier Giroud,Center Forward,Pass,,42.4,13.9,51.4,16,Kylian Mbappé Lottin
+926,30,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,64.4,23.9,65.7,5.3,Nicolás Alejandro Tagliafico
+930,30,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,60.8,4.6,32.1,15.1,Nicolás Hernán Otamendi
+933,30,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,23.8,17.7,8.6,36.1,Damián Emiliano Martínez
+937,30,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,7.8,38.2,8.8,54.5,Cristian Gabriel Romero
+940,30,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,19.7,56.4,36.2,51.5,Rodrigo Javier De Paul
+946,30,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,37.9,60.3,45.6,59.4,Lionel Andrés Messi Cuccittini
+948,31,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,45.8,59.4,64.4,73.5,Rodrigo Javier De Paul
+953,31,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,70,65,68.1,55.5,Lionel Andrés Messi Cuccittini
+956,31,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,68.1,54.5,81.1,29.9,Alexis Mac Allister
+959,31,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,81.8,31.4,80.7,45.1,Lionel Andrés Messi Cuccittini
+963,31,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,92.7,47.6,116.8,7.4,Ángel Fabián Di María Hernández
+966,31,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,107.9,8.3,91.4,11.9,Alexis Mac Allister
+969,31,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,93.1,11.9,87.1,18.8,Enzo Fernandez
+972,31,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,87.1,18.1,90.8,2.5,Alexis Mac Allister
+975,31,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,90.8,2.5,98.5,18.3,Nicolás Alejandro Tagliafico
+977,31,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,100.4,20.5,90.1,20.5,Alexis Mac Allister
+979,31,Argentina,Alexis Mac Allister,Left Center Midfield,Shot,Wayward,94.3,23.5,112.3,,
+981,32,France,Theo Bernard François Hernández,Left Back,Pass,,18,0.1,43.9,8.7,Kylian Mbappé Lottin
+983,32,Argentina,Nahuel Molina Lucero,Right Back,Pass,,76.2,71.4,97.8,68.2,Lionel Andrés Messi Cuccittini
+992,32,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,87.1,30.5,82.2,44,Enzo Fernandez
+996,32,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,85.8,45.5,93.3,52.6,Julián Álvarez
+998,32,Argentina,Julián Álvarez,Center Forward,Pass,,93.3,52.6,87.8,51.1,Enzo Fernandez
+1002,32,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,87.8,51.3,90.5,70.7,Rodrigo Javier De Paul
+1005,32,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,91.8,68.6,109.6,29.2,Ángel Fabián Di María Hernández
+1008,32,France,Ousmane Dembélé,Right Wing,Pass,,21.6,55.1,52.9,45.1,
+1011,32,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,65.1,36.3,55,51.3,Cristian Gabriel Romero
+1014,32,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,53.7,58.3,65.9,54.9,Rodrigo Javier De Paul
+1017,32,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,68.7,55.5,63.8,48.3,Enzo Fernandez
+1020,32,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,62.7,42.7,52.3,27.1,Nicolás Hernán Otamendi
+1022,32,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,52.3,26.5,65.9,6.6,Nicolás Alejandro Tagliafico
+1025,32,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,67.7,6.4,75.8,2.3,Ángel Fabián Di María Hernández
+1029,32,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,74.9,3.8,92,15.1,Alexis Mac Allister
+1033,32,France,Jules Koundé,Right Back,Pass,,33.8,80,53.3,75.5,Olivier Giroud
+1035,33,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,66.8,4.6,70.9,10.2,Alexis Mac Allister
+1039,33,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,72.4,7.8,74.7,2.9,Ángel Fabián Di María Hernández
+1045,33,France,Ousmane Dembélé,Right Wing,Pass,,54.6,77.8,57.2,72.3,Jules Koundé
+1052,33,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,73,6.1,80.9,19.2,Julián Álvarez
+1054,33,France,Raphaël Varane,Right Center Back,Pass,,39.2,60.9,61,63.3,
+1056,33,France,Adrien Rabiot,Left Defensive Midfield,Pass,,48.6,50.6,88.8,27.3,
+1057,33,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,31.3,52.8,9.9,54.1,Damián Emiliano Martínez
+1060,33,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,11,56.6,31.9,70.5,Nahuel Molina Lucero
+1063,33,Argentina,Nahuel Molina Lucero,Right Back,Pass,,35.6,72.9,43.7,66.2,Rodrigo Javier De Paul
+1066,33,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,49,67.5,44.3,49.3,Enzo Fernandez
+1069,33,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,70.4,52.1,81.3,74.4,Nahuel Molina Lucero
+1072,33,Argentina,Nahuel Molina Lucero,Right Back,Pass,,81.3,73.3,67,71.8,Rodrigo Javier De Paul
+1075,33,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,63.2,70.9,42.8,62.2,Cristian Gabriel Romero
+1078,33,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,43.1,58.1,44.3,25.8,Nicolás Hernán Otamendi
+1081,33,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,46.7,23.2,57.4,33.5,Enzo Fernandez
+1084,33,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,57.4,33.5,49.5,25.8,Nicolás Hernán Otamendi
+1086,33,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,49.5,26,56.3,25.6,Enzo Fernandez
+1089,33,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,53.5,23.9,44.6,41,Cristian Gabriel Romero
+1092,33,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,43.5,41.2,51.4,48.5,Rodrigo Javier De Paul
+1095,33,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,51.4,48.5,50.5,13.6,Nicolás Hernán Otamendi
+1099,34,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,52.5,15.1,40.1,33.5,Cristian Gabriel Romero
+1102,34,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,39.6,36.3,55.5,44.2,Rodrigo Javier De Paul
+1105,34,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,64.4,42.3,76,62.4,Lionel Andrés Messi Cuccittini
+1108,34,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,80.3,57.7,101.2,8.9,Ángel Fabián Di María Hernández
+1111,34,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,98.5,17.5,94.2,29.7,Lionel Andrés Messi Cuccittini
+1116,34,France,Jules Koundé,Right Back,Pass,,18.4,55.4,39.8,52.4,Adrien Rabiot
+1120,34,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,80.7,23.2,88.4,4.6,Nicolás Alejandro Tagliafico
+1123,34,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,90.3,5.7,81.3,12.3,Enzo Fernandez
+1126,34,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,80.1,14.7,86.5,5.3,Nicolás Alejandro Tagliafico
+1129,34,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,86.5,5.3,93.7,3.8,Ángel Fabián Di María Hernández
+1132,34,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,87.3,4.6,74.1,8.1,Enzo Fernandez
+1135,34,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,74.7,10,54,39.9,Cristian Gabriel Romero
+1139,34,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,53.7,45.7,21.2,32,Damián Emiliano Martínez
+1141,34,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,21.2,32,27.9,22.4,Nicolás Hernán Otamendi
+1144,34,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,25.9,22.4,10.1,40.6,Damián Emiliano Martínez
+1147,34,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,9.7,45.1,12.9,55.5,Cristian Gabriel Romero
+1150,34,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,12.5,55.3,21.5,73.3,Nahuel Molina Lucero
+1153,34,Argentina,Nahuel Molina Lucero,Right Back,Pass,,21.5,73.3,27,79.1,
+1154,35,France,Theo Bernard François Hernández,Left Back,Pass,,93.1,0.1,110.8,7,Kylian Mbappé Lottin
+1160,35,Argentina,Nahuel Molina Lucero,Right Back,Pass,,5.8,54.5,4.1,42.1,Damián Emiliano Martínez
+1162,35,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,4.1,42.1,51,73.1,
+1165,35,France,Dayotchanculle Upamecano,Left Center Back,Pass,,71.3,5.5,94.2,8.3,
+1166,35,Argentina,Nahuel Molina Lucero,Right Back,Pass,,25.9,71.8,41.6,59.2,Alexis Mac Allister
+1168,35,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,41.8,59,53.1,61.8,Lionel Andrés Messi Cuccittini
+1171,35,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,52.9,61.8,62.5,68.2,Julián Álvarez
+1174,35,Argentina,Julián Álvarez,Center Forward,Pass,,63.2,68.2,99.3,54.9,Alexis Mac Allister
+1176,35,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,99.3,54.9,111.8,32.1,Ángel Fabián Di María Hernández
+1178,35,Argentina,Ángel Fabián Di María Hernández,Left Wing,Shot,Goal,111.8,32.1,120,41.7,
+1180,36,France,Olivier Giroud,Center Forward,Pass,,61,40.1,54.6,42.9,Aurélien Djani Tchouaméni
+1182,36,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,54.6,42.9,56.7,12.1,Kylian Mbappé Lottin
+1186,37,France,Kylian Mbappé Lottin,Left Wing,Pass,,66.8,10.6,45.4,30.3,Dayotchanculle Upamecano
+1189,37,France,Dayotchanculle Upamecano,Left Center Back,Pass,,45.4,31.6,52.7,46.2,Aurélien Djani Tchouaméni
+1195,37,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,56.5,64.6,72.1,76.1,Ousmane Dembélé
+1203,37,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,44.3,7.4,44.3,3.1,Ángel Fabián Di María Hernández
+1206,37,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,45.2,4,42,14.1,Enzo Fernandez
+1209,37,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,42,13.8,37.7,9.6,Alexis Mac Allister
+1212,37,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,45.2,14.7,43.1,24.1,Enzo Fernandez
+1215,37,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,43.1,25,48,42.7,Lionel Andrés Messi Cuccittini
+1217,37,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,48,42.5,38.1,39.7,Rodrigo Javier De Paul
+1220,37,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,38.1,39.7,33.2,24.7,Nicolás Hernán Otamendi
+1223,37,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,32.8,24.3,25.1,45.9,Cristian Gabriel Romero
+1226,37,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,25.1,45.7,38.8,44.9,Enzo Fernandez
+1229,37,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,39.6,43.8,33.6,24.7,Nicolás Hernán Otamendi
+1232,37,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,33.9,23.9,41.6,9.3,Nicolás Alejandro Tagliafico
+1235,37,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,44.8,8.1,28.9,15.8,Nicolás Hernán Otamendi
+1238,37,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,30.6,14.5,38.8,2.1,Nicolás Alejandro Tagliafico
+1241,37,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,38.6,3.4,54,7.8,Alexis Mac Allister
+1247,38,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,53.5,7,46.7,63.9,Nahuel Molina Lucero
+1249,38,Argentina,Nahuel Molina Lucero,Right Back,Pass,,46.7,63.7,45.2,49.1,Rodrigo Javier De Paul
+1252,38,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,43.5,50,26.4,48.9,Cristian Gabriel Romero
+1255,38,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,26.4,48.7,37.5,44.6,Enzo Fernandez
+1257,38,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,37.5,44.6,49.7,51.7,Rodrigo Javier De Paul
+1259,38,France,Theo Bernard François Hernández,Left Back,Pass,,70.4,28.4,80.5,34.8,Antoine Griezmann
+1261,38,France,Antoine Griezmann,Center Attacking Midfield,Pass,,80.5,35.2,87.3,22.2,Kylian Mbappé Lottin
+1264,38,France,Kylian Mbappé Lottin,Left Wing,Pass,,87.1,10.4,94.4,21.3,Adrien Rabiot
+1271,38,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,33.4,54.9,51.4,72.9,Lionel Andrés Messi Cuccittini
+1278,38,France,Dayotchanculle Upamecano,Left Center Back,Pass,,42.6,5.1,9.7,25.4,Hugo Lloris
+1281,38,France,Hugo Lloris,Goalkeeper,Pass,,12.9,29.9,27.4,45.9,Raphaël Varane
+1284,38,France,Raphaël Varane,Right Center Back,Pass,,49,56.9,60.6,53,Antoine Griezmann
+1286,38,France,Antoine Griezmann,Center Attacking Midfield,Pass,,60.4,53.2,44.5,69.3,Jules Koundé
+1289,38,France,Jules Koundé,Right Back,Pass,,45.6,69.7,45.6,63.1,Raphaël Varane
+1292,38,France,Raphaël Varane,Right Center Back,Pass,,45.6,61.6,50.3,43.6,Aurélien Djani Tchouaméni
+1295,38,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,56.9,39.7,50.9,53,Raphaël Varane
+1298,39,France,Raphaël Varane,Right Center Back,Pass,,62.7,57.5,64.6,73.3,Jules Koundé
+1301,39,France,Jules Koundé,Right Back,Pass,,64.4,73.5,77.3,64.6,Antoine Griezmann
+1303,39,France,Antoine Griezmann,Center Attacking Midfield,Pass,,77.3,64.6,80,60.5,Kylian Mbappé Lottin
+1306,39,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,53.1,11.7,55,17.7,Julián Álvarez
+1309,39,Argentina,Julián Álvarez,Center Forward,Pass,,55.2,18.5,48.2,20.7,Enzo Fernandez
+1311,39,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,48.2,20.7,49.3,31.2,Rodrigo Javier De Paul
+1314,39,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,49.3,31.2,53.3,39.1,Lionel Andrés Messi Cuccittini
+1317,39,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,44.6,28.4,35.8,23,Nicolás Hernán Otamendi
+1320,39,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,35.8,22.6,48,3.6,Nicolás Alejandro Tagliafico
+1323,39,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,48,3.1,32.1,16.4,Nicolás Hernán Otamendi
+1326,39,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,30.9,19.8,26.6,46.3,Cristian Gabriel Romero
+1329,39,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,27.9,47.4,26.6,29,Nicolás Hernán Otamendi
+1331,39,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,26.6,26.7,37.1,32,Enzo Fernandez
+1334,39,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,37.1,32,45.2,72.7,Nahuel Molina Lucero
+1337,39,Argentina,Nahuel Molina Lucero,Right Back,Pass,,48.4,73.3,52.7,69.5,
+1339,39,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,55,32.7,62.5,23.1,Adrien Rabiot
+1341,39,France,Adrien Rabiot,Left Defensive Midfield,Pass,,62.5,22.8,51.8,26.5,Aurélien Djani Tchouaméni
+1344,39,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,51.8,26.5,41.3,5.1,Dayotchanculle Upamecano
+1346,39,France,Dayotchanculle Upamecano,Left Center Back,Pass,,41.3,5.7,87.5,19.2,
+1348,39,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,32.6,60.9,40.1,71.6,Nahuel Molina Lucero
+1350,39,Argentina,Nahuel Molina Lucero,Right Back,Pass,,40.7,74.8,38.3,70.9,Rodrigo Javier De Paul
+1353,39,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,43.1,69.7,40.1,75.9,Nahuel Molina Lucero
+1355,39,Argentina,Nahuel Molina Lucero,Right Back,Pass,,39.8,75.9,51,74.6,Rodrigo Javier De Paul
+1359,39,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,51,75,54.4,75.4,Julián Álvarez
+1361,39,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,65.7,4.7,96.1,5.3,
+1363,39,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,24,74.8,37.5,61.1,Enzo Fernandez
+1365,39,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,37.5,61.1,36.9,73.3,Nahuel Molina Lucero
+1367,40,Argentina,Nahuel Molina Lucero,Right Back,Pass,,36.9,72.9,40.7,76.5,Rodrigo Javier De Paul
+1370,40,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,40.7,76.3,23.6,30.9,Nicolás Hernán Otamendi
+1373,40,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,25.5,28.8,48.4,3.1,Ángel Fabián Di María Hernández
+1380,41,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,51.2,3.1,48.4,20.9,Nicolás Alejandro Tagliafico
+1386,41,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,72.1,4.4,39.8,60.3,Nahuel Molina Lucero
+1389,41,Argentina,Nahuel Molina Lucero,Right Back,Pass,,42.2,57.9,32.4,28.2,Nicolás Hernán Otamendi
+1392,41,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,34.9,24.5,49.7,5.7,Nicolás Alejandro Tagliafico
+1398,42,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,57,3.6,29.6,16.6,Nicolás Hernán Otamendi
+1401,42,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,26.4,18.5,19.5,44.4,Cristian Gabriel Romero
+1404,42,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,15.5,47.6,43.7,41.4,Enzo Fernandez
+1407,42,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,54.4,40.6,102.3,6.6,Ángel Fabián Di María Hernández
+1413,42,France,Jules Koundé,Right Back,Pass,,2.8,65.8,10.5,71.2,Randal Kolo Muani
+1423,43,France,Hugo Lloris,Goalkeeper,Pass,,7,36.1,72.4,28.8,
+1425,43,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,33.1,54.1,28.4,70.7,Nahuel Molina Lucero
+1429,43,Argentina,Nahuel Molina Lucero,Right Back,Pass,,28.7,75,39.6,74.8,Rodrigo Javier De Paul
+1431,43,France,Adrien Rabiot,Left Defensive Midfield,Pass,,80.5,5.3,86.5,5.5,Marcus Thuram
+1437,43,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,37.5,66.7,51,65.4,Julián Álvarez
+1447,43,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,76.6,11.1,82,5.1,Adrien Rabiot
+1451,43,France,Adrien Rabiot,Left Defensive Midfield,Pass,,83.9,5.9,79.6,6.6,Marcus Thuram
+1457,43,France,Theo Bernard François Hernández,Left Back,Pass,,69.6,0.1,71.5,8.7,Aurélien Djani Tchouaméni
+1460,43,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,71.5,8.7,68.9,3.6,Theo Bernard François Hernández
+1463,43,France,Theo Bernard François Hernández,Left Back,Pass,,68.9,3.6,45,7.7,Dayotchanculle Upamecano
+1466,43,France,Dayotchanculle Upamecano,Left Center Back,Pass,,48.4,22.4,56.3,7,Theo Bernard François Hernández
+1469,43,France,Theo Bernard François Hernández,Left Back,Pass,,56.3,7,45,16.4,Dayotchanculle Upamecano
+1472,43,France,Dayotchanculle Upamecano,Left Center Back,Pass,,42.8,20.7,40.5,51.7,Raphaël Varane
+1475,43,France,Raphaël Varane,Right Center Back,Pass,,63.1,58.3,56.3,47.4,Aurélien Djani Tchouaméni
+1478,44,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,56.3,46.8,45.6,32.3,Dayotchanculle Upamecano
+1483,44,France,Dayotchanculle Upamecano,Left Center Back,Pass,,53.1,8.1,68.3,19,
+1486,44,France,Theo Bernard François Hernández,Left Back,Pass,,56.5,7,55.9,27.5,Aurélien Djani Tchouaméni
+1489,44,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,55.4,28.4,55.7,49.2,Raphaël Varane
+1492,44,France,Raphaël Varane,Right Center Back,Pass,,55.2,47.4,49.2,29.9,Dayotchanculle Upamecano
+1495,44,France,Dayotchanculle Upamecano,Left Center Back,Pass,,47.7,31.4,47.5,71.6,Jules Koundé
+1498,44,France,Jules Koundé,Right Back,Pass,,77.5,71.2,86.7,77.2,Randal Kolo Muani
+1502,44,France,Randal Kolo Muani,Right Wing,Pass,,85.2,64.8,94.4,57.3,Kylian Mbappé Lottin
+1504,44,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,25.7,22.8,32.4,27.5,Rodrigo Javier De Paul
+1515,44,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,86,55.1,84.7,46.2,Randal Kolo Muani
+1524,44,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,38.5,33.1,41.6,40.7,Rodrigo Javier De Paul
+1526,44,France,Adrien Rabiot,Left Defensive Midfield,Pass,,78.5,39.4,91.3,30.4,
+1527,44,Argentina,Nahuel Molina Lucero,Right Back,Pass,,28.8,49.7,43.3,49.2,Lionel Andrés Messi Cuccittini
+1531,44,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,37.5,53.8,44.3,74.2,Nahuel Molina Lucero
+1535,45,Argentina,Nahuel Molina Lucero,Right Back,Pass,,55.7,76.1,58,67.5,Lionel Andrés Messi Cuccittini
+1537,45,France,Adrien Rabiot,Left Defensive Midfield,Pass,,62.1,12.6,63.1,0.8,Marcus Thuram
+1539,45,Argentina,Nahuel Molina Lucero,Right Back,Pass,,57.6,80,52,72.9,Rodrigo Javier De Paul
+1542,45,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,50.5,74.6,32.1,70.1,Cristian Gabriel Romero
+1545,45,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,30.2,64.5,27.7,28,Nicolás Hernán Otamendi
+1548,45,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,27.4,26.2,43.5,3.6,Nicolás Alejandro Tagliafico
+1551,45,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,43.5,3.6,112.8,19,Ángel Fabián Di María Hernández
+1554,45,France,Hugo Lloris,Goalkeeper,Pass,,9.2,57.7,26.8,34.8,Dayotchanculle Upamecano
+1557,45,France,Dayotchanculle Upamecano,Left Center Back,Pass,,38.8,33.3,46.7,26.9,Aurélien Djani Tchouaméni
+1560,45,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,56.1,20.9,66.4,7.7,Theo Bernard François Hernández
+1564,45,France,Theo Bernard François Hernández,Left Back,Pass,,67.8,7.2,42.2,14.9,Dayotchanculle Upamecano
+1567,45,France,Dayotchanculle Upamecano,Left Center Back,Pass,,42.8,16.2,53.3,48.1,Adrien Rabiot
+1571,46,France,Adrien Rabiot,Left Defensive Midfield,Pass,,80.7,72.9,73.6,76.1,Jules Koundé
+1574,46,France,Jules Koundé,Right Back,Pass,,74.1,76.3,65.9,49.6,Aurélien Djani Tchouaméni
+1577,46,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,67.4,41,78.3,7.9,Theo Bernard François Hernández
+1580,46,France,Theo Bernard François Hernández,Left Back,Pass,,78.3,6.8,69.1,17.5,Aurélien Djani Tchouaméni
+1584,46,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,69.8,16.4,56.9,24.8,Dayotchanculle Upamecano
+1588,46,France,Dayotchanculle Upamecano,Left Center Back,Pass,,56.5,26.9,86.9,20.3,
+1592,46,France,Kylian Mbappé Lottin,Center Forward,Pass,,91.8,4.7,99.7,10.9,Marcus Thuram
+1599,46,France,Marcus Thuram,Left Wing,Pass,,113,5.5,112.6,10.2,
+1604,47,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,15.9,73.1,85.2,61.3,
+1605,47,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,34.9,18.8,53.1,14.7,
+1608,47,Argentina,Nahuel Molina Lucero,Right Back,Pass,,66.8,64.5,80.3,54.5,Lionel Andrés Messi Cuccittini
+1611,47,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,80.3,56.4,100.8,53,Julián Álvarez
+1615,48,Argentina,Nahuel Molina Lucero,Right Back,Pass,,104.9,80,97.6,72.2,Rodrigo Javier De Paul
+1617,48,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,97.4,72,105.3,75.2,Nahuel Molina Lucero
+1619,48,Argentina,Nahuel Molina Lucero,Right Back,Pass,,105.3,75.2,104.4,68.6,Julián Álvarez
+1622,48,Argentina,Julián Álvarez,Center Forward,Pass,,104.7,68.2,101.2,71.8,Rodrigo Javier De Paul
+1626,48,France,Adrien Rabiot,Left Defensive Midfield,Pass,,22.5,10,40.3,12.1,Kylian Mbappé Lottin
+1629,48,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,57,71.4,20,47.2,Damián Emiliano Martínez
+1632,48,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,18.9,48.1,22.1,23,Nicolás Hernán Otamendi
+1635,48,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,34.5,16.6,52.7,2.9,Ángel Fabián Di María Hernández
+1642,48,France,Randal Kolo Muani,Right Wing,Pass,,64.6,73.7,47.1,56.4,Raphaël Varane
+1645,48,France,Raphaël Varane,Right Center Back,Pass,,40,40.2,50.7,56,Aurélien Djani Tchouaméni
+1648,48,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,50.9,56.9,44.3,29.7,Dayotchanculle Upamecano
+1651,48,France,Dayotchanculle Upamecano,Left Center Back,Pass,,53.3,25.8,44.3,41.9,Raphaël Varane
+1654,49,France,Raphaël Varane,Right Center Back,Pass,,47.7,45.5,50.9,55.1,Aurélien Djani Tchouaméni
+1658,49,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,52.7,49.4,52.4,28.8,Dayotchanculle Upamecano
+1661,49,France,Dayotchanculle Upamecano,Left Center Back,Pass,,63.1,24.8,78.1,5.5,Marcus Thuram
+1668,49,France,Theo Bernard François Hernández,Left Back,Pass,,94.6,0.1,75.8,6.4,Dayotchanculle Upamecano
+1670,49,France,Dayotchanculle Upamecano,Left Center Back,Pass,,76.6,7.2,56.7,27.5,Raphaël Varane
+1673,49,France,Raphaël Varane,Right Center Back,Pass,,55.2,34.8,63.6,59.8,Jules Koundé
+1676,49,France,Jules Koundé,Right Back,Pass,,70.8,65.2,83.5,76.7,Antoine Griezmann
+1679,49,France,Antoine Griezmann,Center Attacking Midfield,Pass,,81.8,75.7,65.1,63.9,Raphaël Varane
+1682,49,France,Raphaël Varane,Right Center Back,Pass,,68.9,60.3,99.5,37.4,Marcus Thuram
+1684,49,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,20.6,42.7,28.3,32.9,Enzo Fernandez
+1687,49,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,29.8,33.1,28.5,23.5,Alexis Mac Allister
+1693,49,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,36.4,22.4,36.4,19.8,
+1695,50,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,64.7,0.1,82,4.4,Lionel Andrés Messi Cuccittini
+1698,50,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,80.1,0.1,94.4,4.4,Julián Álvarez
+1704,50,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,26.6,70.8,18.7,63.5,Dayotchanculle Upamecano
+1707,50,France,Dayotchanculle Upamecano,Left Center Back,Pass,,18.2,61.3,52,68.4,
+1708,50,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,68.1,11.7,77.9,16.6,Enzo Fernandez
+1710,50,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,79,16,81.8,19.4,
+1716,50,France,Antoine Griezmann,Center Attacking Midfield,Pass,,38.5,73.1,31.7,72.9,Jules Koundé
+1720,50,France,Jules Koundé,Right Back,Pass,,30,72.9,33.4,72.9,
+1723,50,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,94,0.1,79,11.1,Enzo Fernandez
+1726,50,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,76.9,13.4,82.4,24.3,Lionel Andrés Messi Cuccittini
+1729,51,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,82,22.8,74.7,18.3,Enzo Fernandez
+1732,51,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,68.7,19.8,53.5,42.5,Cristian Gabriel Romero
+1736,51,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,57.8,41,77.9,0.1,Ángel Fabián Di María Hernández
+1738,51,France,Jules Koundé,Right Back,Pass,,42,80,40.7,72.9,Aurélien Djani Tchouaméni
+1743,51,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,39.2,74.2,54.4,74.8,Randal Kolo Muani
+1749,52,France,Antoine Griezmann,Center Attacking Midfield,Pass,,80.9,73.1,120,29,
+1754,45,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,61,40.1,47.5,37.6,Enzo Fernandez
+1757,45,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,47.3,41.9,43.9,55.1,Rodrigo Javier De Paul
+1760,45,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,43.7,51.3,30.4,29,Nicolás Hernán Otamendi
+1763,45,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,30.4,29,39.4,13.9,Nicolás Alejandro Tagliafico
+1766,45,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,39.2,13.9,63.4,3.4,Ángel Fabián Di María Hernández
+1770,45,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,57.6,4,39.8,5.9,Nicolás Alejandro Tagliafico
+1773,45,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,38.3,7.4,25.9,17.1,Nicolás Hernán Otamendi
+1776,45,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,25.7,17.5,8,32.3,Damián Emiliano Martínez
+1779,45,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,6.7,30.8,50.7,7.2,
+1781,45,France,Jules Koundé,Right Back,Pass,,69.4,72.9,67.4,59.6,Aurélien Djani Tchouaméni
+1783,45,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,67.2,59.6,71.9,58.8,
+1788,45,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,70.6,21.1,87.3,17.3,Julián Álvarez
+1792,45,Argentina,Julián Álvarez,Center Forward,Pass,,97,29.3,98.4,57.4,Rodrigo Javier De Paul
+1795,45,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,97.6,56.2,105.3,61.1,Julián Álvarez
+1798,45,Argentina,Julián Álvarez,Center Forward,Pass,,100.1,62.8,88.2,54.7,Enzo Fernandez
+1801,45,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,87.7,53,111.9,41.9,Alexis Mac Allister
+1804,45,France,Hugo Lloris,Goalkeeper,Pass,,11.6,39.7,27.9,8.5,Theo Bernard François Hernández
+1807,46,Argentina,Nahuel Molina Lucero,Right Back,Pass,,80.3,80,90.9,68.8,Julián Álvarez
+1810,46,France,Marcus Thuram,Left Wing,Pass,,36.6,11.7,23.4,42.7,Jules Koundé
+1816,46,France,Jules Koundé,Right Back,Pass,,61.9,71.2,65.7,70.9,
+1819,46,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,42.4,73.9,29.6,55.5,Raphaël Varane
+1823,46,France,Raphaël Varane,Right Center Back,Pass,,24.4,55.5,36.2,33.3,Dayotchanculle Upamecano
+1826,46,France,Dayotchanculle Upamecano,Left Center Back,Pass,,43.5,30.3,54.8,38.4,Aurélien Djani Tchouaméni
+1830,46,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,56.1,32,51,3.4,Theo Bernard François Hernández
+1833,46,France,Theo Bernard François Hernández,Left Back,Pass,,52.7,3.1,70.4,2.7,Marcus Thuram
+1835,46,France,Marcus Thuram,Left Wing,Pass,,70.4,2.7,52,6.4,Theo Bernard François Hernández
+1838,47,France,Theo Bernard François Hernández,Left Back,Pass,,51.8,7.4,38.1,38,Raphaël Varane
+1841,47,France,Raphaël Varane,Right Center Back,Pass,,39,42.9,39.4,57,Jules Koundé
+1844,47,France,Jules Koundé,Right Back,Pass,,39.4,57,39.6,50.2,Raphaël Varane
+1847,47,France,Raphaël Varane,Right Center Back,Pass,,46.7,48.5,43.3,21.1,Dayotchanculle Upamecano
+1850,47,France,Dayotchanculle Upamecano,Left Center Back,Pass,,46,28.6,99.5,14.5,Marcus Thuram
+1852,47,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,20.6,65.6,29.6,69.7,Rodrigo Javier De Paul
+1854,47,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,29.3,69.7,2,59.8,Damián Emiliano Martínez
+1858,47,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,16.3,50.9,95.4,80,Julián Álvarez
+1860,47,France,Theo Bernard François Hernández,Left Back,Pass,,25.3,0.1,49.9,3.6,Marcus Thuram
+1865,48,Argentina,Nahuel Molina Lucero,Right Back,Pass,,79.4,80,100.4,65.2,Lionel Andrés Messi Cuccittini
+1867,48,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,100.4,65.2,102.1,54.1,
+1872,48,France,Raphaël Varane,Right Center Back,Pass,,18.7,36.3,6,40.8,Hugo Lloris
+1874,48,France,Hugo Lloris,Goalkeeper,Pass,,6,40.8,43.9,51.5,Randal Kolo Muani
+1879,48,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,79.8,14.9,96.1,13.2,
+1880,48,France,Jules Koundé,Right Back,Pass,,24,66.9,33.9,73.9,Randal Kolo Muani
+1884,48,France,Randal Kolo Muani,Right Wing,Pass,,36.4,71.8,36.9,66.7,Jules Koundé
+1903,48,France,Jules Koundé,Right Back,Pass,,52.3,75.2,56.7,47.8,Kylian Mbappé Lottin
+1907,48,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,69.8,35,78.8,44,Lionel Andrés Messi Cuccittini
+1911,48,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,81.3,32.9,99.7,22.4,Ángel Fabián Di María Hernández
+1914,48,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,106.8,20.9,103.3,52.3,Rodrigo Javier De Paul
+1916,48,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Shot,Saved,103.3,52.3,117.6,41.6,
+1918,48,France,Hugo Lloris,Goalkeeper,Pass,,12,39.7,30.6,31.4,Antoine Griezmann
+1920,48,France,Antoine Griezmann,Center Attacking Midfield,Pass,,30.6,31.4,30.2,6.8,Theo Bernard François Hernández
+1927,49,France,Theo Bernard François Hernández,Left Back,Pass,,48.2,8.3,43.1,13.2,Antoine Griezmann
+1929,49,France,Antoine Griezmann,Center Attacking Midfield,Pass,,43.1,13.2,56.3,3.4,Kylian Mbappé Lottin
+1942,49,France,Antoine Griezmann,Center Attacking Midfield,Pass,,73.6,22,77.5,35.4,Jules Koundé
+1948,49,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,2.8,56.6,20.8,74.6,Nahuel Molina Lucero
+1951,49,Argentina,Nahuel Molina Lucero,Right Back,Pass,,35.1,74.4,97.2,68.2,Julián Álvarez
+1953,49,France,Dayotchanculle Upamecano,Left Center Back,Pass,,22.9,11.9,7.8,28.2,Hugo Lloris
+1956,49,France,Hugo Lloris,Goalkeeper,Pass,,7.8,28.2,47.5,22.2,Adrien Rabiot
+1958,49,France,Adrien Rabiot,Left Defensive Midfield,Pass,,47.5,22.2,55,22.6,Antoine Griezmann
+1961,49,France,Antoine Griezmann,Center Attacking Midfield,Pass,,55,22.6,66.6,13.4,Kylian Mbappé Lottin
+1963,49,Argentina,Nahuel Molina Lucero,Right Back,Pass,,53.5,66.7,65.1,64.6,Rodrigo Javier De Paul
+1966,49,France,Antoine Griezmann,Center Attacking Midfield,Pass,,55,15.5,54.4,20.7,Adrien Rabiot
+1969,49,France,Adrien Rabiot,Left Defensive Midfield,Pass,,55.7,16,65.3,7,Kylian Mbappé Lottin
+1972,49,France,Theo Bernard François Hernández,Left Back,Pass,,69.8,0.1,51.8,11.1,Marcus Thuram
+1975,50,Argentina,Nahuel Molina Lucero,Right Back,Pass,,67.6,80,75.1,75.2,Lionel Andrés Messi Cuccittini
+1978,50,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,77.5,74.6,63.4,77.8,Nahuel Molina Lucero
+1982,50,Argentina,Nahuel Molina Lucero,Right Back,Pass,,61.6,77.2,15.2,55.4,Damián Emiliano Martínez
+1984,50,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,15,54.3,25.5,25.4,Nicolás Hernán Otamendi
+1987,50,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,31.3,22.8,44.7,5.7,Nicolás Alejandro Tagliafico
+1991,50,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,44.7,6.4,62.5,12.8,Alexis Mac Allister
+1995,50,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,62.5,13,60.8,13.4,Nicolás Alejandro Tagliafico
+2003,50,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,43,6.8,33.4,9.6,Nicolás Hernán Otamendi
+2008,50,France,Randal Kolo Muani,Right Wing,Pass,,86.5,67.7,96.5,60,Kylian Mbappé Lottin
+2014,51,France,Antoine Griezmann,Center Attacking Midfield,Pass,,120,80,112.6,36.9,
+2017,51,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,15.4,46.2,36,75.7,Ángel Fabián Di María Hernández
+2020,51,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,70.6,65.8,92.4,60.7,Lionel Andrés Messi Cuccittini
+2023,51,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,92.4,60.9,111.9,70.1,Rodrigo Javier De Paul
+2029,51,Argentina,Nahuel Molina Lucero,Right Back,Pass,,110.8,80,107.4,72.5,Rodrigo Javier De Paul
+2032,51,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,108.5,71.6,112.3,78,Nahuel Molina Lucero
+2036,51,Argentina,Nahuel Molina Lucero,Right Back,Pass,,112.8,77,113.8,73.1,
+2038,52,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,120,80,117.9,49.8,
+2040,53,Argentina,Nahuel Molina Lucero,Right Back,Pass,,106.4,80,113,66.9,Julián Álvarez
+2044,53,Argentina,Julián Álvarez,Center Forward,Pass,,114.1,71,108.9,74.6,
+2050,53,France,Marcus Thuram,Left Wing,Pass,,5.2,7,62.1,17.9,
+2053,53,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,55.9,65.8,72.3,75.7,Rodrigo Javier De Paul
+2057,53,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,68.3,75.2,34.3,30.3,Damián Emiliano Martínez
+2060,53,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,34.3,30.3,39.4,35,Enzo Fernandez
+2063,53,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,39.4,35,59.3,11.7,
+2064,53,France,Jules Koundé,Right Back,Pass,,60.8,68.4,79.2,70.5,Antoine Griezmann
+2066,53,France,Antoine Griezmann,Center Attacking Midfield,Pass,,79.4,70.5,67,69.5,Aurélien Djani Tchouaméni
+2069,53,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,63.6,73.3,55.7,42.3,Dayotchanculle Upamecano
+2072,53,France,Dayotchanculle Upamecano,Left Center Back,Pass,,64.4,45.9,71.9,23.2,Adrien Rabiot
+2075,53,France,Adrien Rabiot,Left Defensive Midfield,Pass,,65.3,30.1,67,42.9,Aurélien Djani Tchouaméni
+2077,53,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,67,42.9,56.7,34.2,Dayotchanculle Upamecano
+2080,53,France,Dayotchanculle Upamecano,Left Center Back,Pass,,63.4,31.8,70.6,13.8,Kylian Mbappé Lottin
+2083,53,France,Kylian Mbappé Lottin,Center Forward,Pass,,74.1,15.1,76.9,18.1,
+2088,54,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,80.7,19.8,94,2.3,Theo Bernard François Hernández
+2091,54,France,Theo Bernard François Hernández,Left Back,Pass,,94,2.3,90.1,9.8,Aurélien Djani Tchouaméni
+2095,54,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,90.1,12.1,100,15.3,Theo Bernard François Hernández
+2099,54,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,22.5,71.8,31.3,77.8,Enzo Fernandez
+2103,54,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,31.3,77.2,40,73.3,Rodrigo Javier De Paul
+2110,55,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,53.5,76.5,33,72.9,Cristian Gabriel Romero
+2114,55,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,35.5,72.7,63.8,36.7,Alexis Mac Allister
+2117,55,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,64.2,37,76.6,26,
+2118,56,France,Jules Koundé,Right Back,Pass,,43.5,54.1,57.8,57,Randal Kolo Muani
+2124,56,France,Jules Koundé,Right Back,Pass,,59.1,57.3,63.2,65.2,Aurélien Djani Tchouaméni
+2126,56,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,63.2,65.2,52.9,37.8,Dayotchanculle Upamecano
+2129,56,France,Dayotchanculle Upamecano,Left Center Back,Pass,,52.7,33.9,62.5,6.4,Theo Bernard François Hernández
+2132,56,France,Theo Bernard François Hernández,Left Back,Pass,,61.9,3.1,62.1,11.7,Adrien Rabiot
+2136,56,France,Adrien Rabiot,Left Defensive Midfield,Pass,,64.4,10.6,56.5,2.3,Theo Bernard François Hernández
+2138,56,France,Theo Bernard François Hernández,Left Back,Pass,,56.5,2.3,40.9,13,Dayotchanculle Upamecano
+2141,56,France,Dayotchanculle Upamecano,Left Center Back,Pass,,40.9,15.5,42.4,49.6,Raphaël Varane
+2143,56,France,Raphaël Varane,Right Center Back,Pass,,42.4,49.6,37.9,20.9,Dayotchanculle Upamecano
+2146,56,France,Dayotchanculle Upamecano,Left Center Back,Pass,,47.5,29.7,62.7,69.2,Jules Koundé
+2149,56,France,Jules Koundé,Right Back,Pass,,114.7,73.5,115.1,70.1,
+2158,57,France,Jules Koundé,Right Back,Pass,,114.5,80,111.9,63.5,Randal Kolo Muani
+2162,57,France,Randal Kolo Muani,Right Wing,Pass,,112.6,63.9,94.6,50.4,Adrien Rabiot
+2165,57,France,Adrien Rabiot,Left Defensive Midfield,Pass,,94.6,50.4,80.7,68.2,Raphaël Varane
+2169,57,France,Raphaël Varane,Right Center Back,Pass,,72.1,66.9,29.4,51.5,Hugo Lloris
+2172,57,France,Hugo Lloris,Goalkeeper,Pass,,30.9,50.4,45.8,22.6,Dayotchanculle Upamecano
+2175,57,France,Dayotchanculle Upamecano,Left Center Back,Pass,,47.3,22.6,63.4,3.4,Theo Bernard François Hernández
+2178,57,France,Theo Bernard François Hernández,Left Back,Pass,,45.4,2.9,56.7,9.1,Kylian Mbappé Lottin
+2184,57,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,58.4,67.1,63.8,74.6,Rodrigo Javier De Paul
+2191,58,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,67.6,71.8,63.1,76.1,Nahuel Molina Lucero
+2195,58,Argentina,Nahuel Molina Lucero,Right Back,Pass,,63.4,74.2,89.9,11.9,
+2196,58,France,Jules Koundé,Right Back,Pass,,30.2,68.2,40.7,68.6,Randal Kolo Muani
+2198,58,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,79.4,11.5,82.8,16,Ángel Fabián Di María Hernández
+2201,58,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,84.7,20.3,98.2,26.7,Julián Álvarez
+2204,58,Argentina,Julián Álvarez,Center Forward,Shot,Saved,110.5,24.9,119.4,35.8,
+2206,58,France,Hugo Lloris,Goalkeeper,Pass,,7.8,44.4,50.5,25.2,Dayotchanculle Upamecano
+2208,58,France,Dayotchanculle Upamecano,Left Center Back,Pass,,50.5,22.8,44.3,37.2,Raphaël Varane
+2211,58,France,Raphaël Varane,Right Center Back,Pass,,45.2,42.1,49.7,23,Dayotchanculle Upamecano
+2214,58,France,Dayotchanculle Upamecano,Left Center Back,Pass,,52,22.4,55.7,5.5,Theo Bernard François Hernández
+2217,58,France,Theo Bernard François Hernández,Left Back,Pass,,55.5,5.5,94,26.2,Kylian Mbappé Lottin
+2219,59,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,29.6,48.5,81.1,5.9,
+2220,59,France,Jules Koundé,Right Back,Pass,,39,74.2,45.8,64.3,Randal Kolo Muani
+2223,59,France,Randal Kolo Muani,Right Wing,Pass,,46.5,63.7,44.1,59.6,Aurélien Djani Tchouaméni
+2225,59,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,44.1,59.6,62.5,66.5,Randal Kolo Muani
+2227,59,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,57.6,13.6,76.6,8.9,Ángel Fabián Di María Hernández
+2231,59,Argentina,Ángel Fabián Di María Hernández,Left Wing,Pass,,112.1,22.4,106.6,37,Lionel Andrés Messi Cuccittini
+2235,59,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Shot,Off T,109.7,46,120,45.5,
+2237,60,France,Hugo Lloris,Goalkeeper,Pass,,6,36,83.7,65,Randal Kolo Muani
+2239,60,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,36.4,15.1,39.4,22,Enzo Fernandez
+2241,60,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,39.4,22,70.6,20.1,Julián Álvarez
+2245,60,France,Dayotchanculle Upamecano,Left Center Back,Pass,,50.8,60.3,66.4,11.3,Theo Bernard François Hernández
+2248,61,Argentina,Nahuel Molina Lucero,Right Back,Pass,,40.3,80,46.5,73.3,Rodrigo Javier De Paul
+2250,61,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,46.5,73.3,37.3,77.6,Nahuel Molina Lucero
+2253,61,Argentina,Nahuel Molina Lucero,Right Back,Pass,,37.3,77.6,37,69,Enzo Fernandez
+2255,61,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,36.4,69.3,46.5,75.5,Rodrigo Javier De Paul
+2258,61,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,45.4,74.2,70.6,80,Lionel Andrés Messi Cuccittini
+2260,61,France,Theo Bernard François Hernández,Left Back,Pass,,52,0.1,48.4,6.4,Dayotchanculle Upamecano
+2262,61,France,Dayotchanculle Upamecano,Left Center Back,Pass,,34.5,12.1,36.4,35.9,Raphaël Varane
+2265,61,France,Raphaël Varane,Right Center Back,Pass,,36.2,38.9,32.1,60.7,Jules Koundé
+2268,61,France,Jules Koundé,Right Back,Pass,,32.1,60.7,14,38.2,Hugo Lloris
+2271,61,France,Hugo Lloris,Goalkeeper,Pass,,14,38,24.7,25.6,Dayotchanculle Upamecano
+2274,61,France,Dayotchanculle Upamecano,Left Center Back,Pass,,36.9,25.6,44.3,4,Theo Bernard François Hernández
+2277,61,France,Theo Bernard François Hernández,Left Back,Pass,,49.3,3.6,64,3.6,Marcus Thuram
+2280,61,France,Marcus Thuram,Left Wing,Pass,,64.2,3.4,67.4,9.3,Adrien Rabiot
+2284,61,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,42.2,68.2,46.7,74.4,
+2287,61,France,Marcus Thuram,Left Wing,Pass,,85.4,21.1,85.6,35,Antoine Griezmann
+2290,61,France,Antoine Griezmann,Center Attacking Midfield,Pass,,85.4,32,105.1,14.9,Theo Bernard François Hernández
+2293,61,France,Theo Bernard François Hernández,Left Back,Pass,,104.9,14.9,113.2,36.1,
+2295,62,France,Theo Bernard François Hernández,Left Back,Pass,,86,0.1,77.1,16.2,Aurélien Djani Tchouaméni
+2298,62,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,77.1,16.2,68.5,49.3,Raphaël Varane
+2301,62,France,Raphaël Varane,Right Center Back,Pass,,80.5,58.5,90.5,54.3,Randal Kolo Muani
+2307,62,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,57.8,35.5,57.8,45.5,Lionel Andrés Messi Cuccittini
+2310,62,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,64,43.4,90.5,25.8,Julián Álvarez
+2312,62,Argentina,Julián Álvarez,Center Forward,Pass,,90.5,25.6,111.9,43.6,Alexis Mac Allister
+2316,62,France,Jules Koundé,Right Back,Pass,,19.3,50.2,32.4,25.8,Adrien Rabiot
+2319,62,France,Adrien Rabiot,Left Defensive Midfield,Pass,,35.1,21.5,55.9,23.5,Marcus Thuram
+2323,62,France,Marcus Thuram,Left Wing,Pass,,53.5,25.4,51,31.4,Antoine Griezmann
+2329,62,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,52.5,26.5,57.4,11.9,Theo Bernard François Hernández
+2331,62,France,Theo Bernard François Hernández,Left Back,Pass,,61.2,7.8,71.3,2.5,Kylian Mbappé Lottin
+2334,62,France,Kylian Mbappé Lottin,Center Forward,Pass,,71.3,2.5,68.1,14.3,Antoine Griezmann
+2337,63,France,Antoine Griezmann,Center Attacking Midfield,Pass,,73.4,16.2,84.3,14.9,Adrien Rabiot
+2340,63,France,Adrien Rabiot,Left Defensive Midfield,Pass,,84.3,14.7,89.5,9.6,Kylian Mbappé Lottin
+2343,63,France,Kylian Mbappé Lottin,Center Forward,Pass,,97.6,17.7,102.7,17.5,Antoine Griezmann
+2346,63,France,Adrien Rabiot,Left Defensive Midfield,Pass,,92,9.8,83.7,14.7,Aurélien Djani Tchouaméni
+2349,63,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,76.4,23,113.6,63.2,Jules Koundé
+2356,64,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,7,36.1,71.5,13.6,
+2359,64,France,Randal Kolo Muani,Right Wing,Pass,,48.6,66.5,62.9,69.7,
+2362,64,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,56.9,10.4,57.2,20.7,Enzo Fernandez
+2366,64,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,57.2,20.7,40,17.7,Nicolás Hernán Otamendi
+2369,64,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,40,18.3,34.5,29.9,Cristian Gabriel Romero
+2373,64,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,35.1,30.1,35.5,14.7,Nicolás Hernán Otamendi
+2376,64,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,35.5,12.6,46.2,4,Nicolás Alejandro Tagliafico
+2380,64,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,46.2,5.1,71.3,22,Julián Álvarez
+2382,64,Argentina,Julián Álvarez,Center Forward,Pass,,71.3,22,68.3,29.3,Lionel Andrés Messi Cuccittini
+2385,64,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,74.7,19.8,87.1,5.3,Marcos Javier Acuña
+2388,64,Argentina,Marcos Javier Acuña,Left Wing,Pass,,87.1,5.3,82,17.7,Alexis Mac Allister
+2396,64,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,94.6,19.2,102.1,14.1,Marcos Javier Acuña
+2399,64,Argentina,Marcos Javier Acuña,Left Wing,Pass,,102.9,14.1,93.1,10.9,Lionel Andrés Messi Cuccittini
+2402,64,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,97.8,9.6,100.1,24.3,Alexis Mac Allister
+2405,64,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,100.4,24.3,104.4,26,
+2407,64,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,6.7,54.3,1.8,47,Hugo Lloris
+2409,64,France,Hugo Lloris,Goalkeeper,Pass,,1.8,47,29.4,64.1,
+2410,64,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,90.7,16,105.9,15.6,
+2413,64,France,Jules Koundé,Right Back,Pass,,5.4,70.9,7.8,71.2,
+2415,65,France,Hugo Lloris,Goalkeeper,Pass,,6,44,80.1,60.3,
+2416,65,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,40,19.8,57.2,28,
+2418,65,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,62.9,52.1,74.3,47.4,Antoine Griezmann
+2420,65,France,Antoine Griezmann,Center Attacking Midfield,Pass,,74.3,47.4,62.5,42.5,Adrien Rabiot
+2424,65,France,Adrien Rabiot,Left Defensive Midfield,Pass,,53.3,38.2,45.6,49.8,Raphaël Varane
+2427,65,France,Raphaël Varane,Right Center Back,Pass,,45.6,49.8,57.4,6.4,Theo Bernard François Hernández
+2430,65,France,Theo Bernard François Hernández,Left Back,Pass,,63.2,5.9,54.4,13.6,Adrien Rabiot
+2433,65,France,Adrien Rabiot,Left Defensive Midfield,Pass,,53.3,15.1,48.8,25.6,Dayotchanculle Upamecano
+2436,65,France,Dayotchanculle Upamecano,Left Center Back,Pass,,53.1,29.2,106.8,15.5,Kylian Mbappé Lottin
+2439,65,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,20.1,64.6,6.9,65.6,Nahuel Molina Lucero
+2441,65,Argentina,Nahuel Molina Lucero,Right Back,Pass,,6.7,65.6,14.2,80,
+2442,65,France,Antoine Griezmann,Center Attacking Midfield,Pass,,105.9,0.1,89.7,5.3,Theo Bernard François Hernández
+2444,65,France,Theo Bernard François Hernández,Left Back,Pass,,89.7,5.3,89.5,11.3,Adrien Rabiot
+2447,65,France,Adrien Rabiot,Left Defensive Midfield,Pass,,92.9,10,102.9,2.7,Antoine Griezmann
+2450,66,France,Antoine Griezmann,Center Attacking Midfield,Pass,,107.2,3.1,117.3,73.9,Randal Kolo Muani
+2452,66,France,Randal Kolo Muani,Right Wing,Pass,,117.3,73.9,105.5,76.1,Jules Koundé
+2455,66,France,Jules Koundé,Right Back,Pass,,105.7,76.1,109.1,74.8,Randal Kolo Muani
+2457,66,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,11,5.3,16.1,10.2,Marcos Javier Acuña
+2471,66,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,3,8.9,33.6,19.6,
+2475,66,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,87.3,65.8,62.9,62.4,Raphaël Varane
+2478,66,France,Raphaël Varane,Right Center Back,Pass,,52.7,53.4,23.4,34.2,Hugo Lloris
+2481,66,France,Hugo Lloris,Goalkeeper,Pass,,23.2,34.2,33,55.3,Raphaël Varane
+2484,66,France,Raphaël Varane,Right Center Back,Pass,,33.2,57.7,47.1,63.9,Aurélien Djani Tchouaméni
+2487,66,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,49.9,68.4,64,76.1,Jules Koundé
+2490,66,France,Jules Koundé,Right Back,Pass,,64,76.1,41.8,58.3,Raphaël Varane
+2493,66,France,Raphaël Varane,Right Center Back,Pass,,42.8,57,54.4,51.7,Antoine Griezmann
+2496,66,France,Antoine Griezmann,Center Attacking Midfield,Pass,,54.4,51.7,48.2,25.2,Dayotchanculle Upamecano
+2499,66,France,Dayotchanculle Upamecano,Left Center Back,Pass,,48.2,25.8,63.4,19.2,Antoine Griezmann
+2503,66,France,Antoine Griezmann,Center Attacking Midfield,Pass,,64.2,18.1,75.4,3.6,Theo Bernard François Hernández
+2505,66,France,Theo Bernard François Hernández,Left Back,Pass,,75.4,3.6,75.1,9.8,Antoine Griezmann
+2508,66,France,Antoine Griezmann,Center Attacking Midfield,Pass,,75.1,9.8,94.2,3.4,Theo Bernard François Hernández
+2511,66,France,Theo Bernard François Hernández,Left Back,Pass,,93.7,3.6,107.9,36.3,Marcus Thuram
+2514,67,France,Antoine Griezmann,Center Attacking Midfield,Pass,,120,0.1,113.4,34.6,Randal Kolo Muani
+2517,67,France,Randal Kolo Muani,Right Wing,Shot,Off T,113.4,34.6,120,31.5,
+2519,68,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,7,44.1,74.7,30.1,
+2520,68,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,45.4,50,67.7,39.9,Marcus Thuram
+2523,68,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,52.4,40.2,64.9,44.7,Rodrigo Javier De Paul
+2527,68,France,Adrien Rabiot,Left Defensive Midfield,Pass,,54.4,28,64.7,17.5,Kylian Mbappé Lottin
+2530,68,France,Kylian Mbappé Lottin,Left Wing,Pass,,67,18.1,63.6,23,Antoine Griezmann
+2533,68,France,Antoine Griezmann,Center Attacking Midfield,Pass,,63.6,23,76.4,5.7,
+2535,68,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,43.7,74.4,41.3,64.3,Enzo Fernandez
+2538,68,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,46.9,59.4,57.2,46.2,Alexis Mac Allister
+2540,68,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,57.2,46.2,50.9,56.6,Enzo Fernandez
+2543,68,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,50.1,55.6,54.4,64.1,Lionel Andrés Messi Cuccittini
+2546,68,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,57.6,59.6,48.8,53.9,Enzo Fernandez
+2550,68,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,43.9,49.6,39.2,30.8,Nicolás Hernán Otamendi
+2553,68,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,40,27.5,50.7,15.4,Nicolás Alejandro Tagliafico
+2557,68,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,50.9,11.1,66.8,5.1,Marcos Javier Acuña
+2565,68,France,Marcus Thuram,Center Forward,Pass,,70.2,62.2,75.1,68.6,Randal Kolo Muani
+2568,68,France,Randal Kolo Muani,Right Wing,Pass,,75.1,68.6,70.2,70.5,Jules Koundé
+2571,68,France,Jules Koundé,Right Back,Pass,,70.2,70.5,77.3,57.5,Marcus Thuram
+2578,68,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,71.9,62.8,63.8,33.7,Adrien Rabiot
+2580,68,France,Adrien Rabiot,Left Defensive Midfield,Pass,,62.9,28.6,77.1,16.8,Kylian Mbappé Lottin
+2583,68,France,Kylian Mbappé Lottin,Left Wing,Pass,,79,17,109.4,3.4,Theo Bernard François Hernández
+2585,68,France,Theo Bernard François Hernández,Left Back,Pass,,109.6,5.3,111.7,29.7,
+2587,68,France,Dayotchanculle Upamecano,Left Center Back,Pass,,67,21.1,69.8,13.6,Adrien Rabiot
+2592,69,France,Adrien Rabiot,Left Defensive Midfield,Pass,,62.3,13.6,66.4,21.3,Aurélien Djani Tchouaméni
+2596,69,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,77.9,14.3,92.7,15.8,Kylian Mbappé Lottin
+2599,69,France,Kylian Mbappé Lottin,Left Wing,Pass,,92.9,15.8,94,10.8,Aurélien Djani Tchouaméni
+2609,69,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,17.2,75,29.3,72,Lionel Andrés Messi Cuccittini
+2613,69,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,32.6,72.9,73.2,77,Rodrigo Javier De Paul
+2615,69,France,Theo Bernard François Hernández,Left Back,Pass,,46.9,3.1,20.2,25.8,Hugo Lloris
+2618,69,France,Hugo Lloris,Goalkeeper,Pass,,25.3,32.4,39.4,50.2,Raphaël Varane
+2621,69,France,Raphaël Varane,Right Center Back,Pass,,62.5,56.8,57.4,69.5,Jules Koundé
+2624,69,France,Jules Koundé,Right Back,Pass,,57.4,69.5,44.6,33.5,Dayotchanculle Upamecano
+2627,69,France,Dayotchanculle Upamecano,Left Center Back,Pass,,45,30.3,59.7,10.4,Aurélien Djani Tchouaméni
+2630,69,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,69.6,9.3,82.8,3.4,Theo Bernard François Hernández
+2633,69,France,Theo Bernard François Hernández,Left Back,Pass,,83.7,4.2,100.8,12.3,Antoine Griezmann
+2635,69,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,19.3,67.8,27.2,74.8,Nahuel Molina Lucero
+2638,69,Argentina,Nahuel Molina Lucero,Right Back,Pass,,27.2,74.8,19.9,67.1,Cristian Gabriel Romero
+2640,69,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,19.9,67.1,39,66.9,
+2643,69,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,78.3,17.9,68.1,21.5,Adrien Rabiot
+2646,70,France,Adrien Rabiot,Left Defensive Midfield,Pass,,72.6,18.1,81.3,3.4,Theo Bernard François Hernández
+2649,70,France,Theo Bernard François Hernández,Left Back,Pass,,81.3,3.4,98.2,3.4,Kylian Mbappé Lottin
+2652,70,France,Kylian Mbappé Lottin,Left Wing,Pass,,98.9,8.7,101,12.3,Adrien Rabiot
+2658,70,France,Kylian Mbappé Lottin,Left Wing,Shot,Off T,102.5,27.9,120,38.8,
+2662,70,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,7,44.1,75.1,7.7,
+2663,71,France,Jules Koundé,Right Back,Pass,,45,72.4,54,75.2,Kingsley Coman
+2670,71,Argentina,Julián Álvarez,Center Forward,Pass,,75.1,6.6,68.1,13,Alexis Mac Allister
+2677,71,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,88.4,15.6,100.1,7.4,Marcos Javier Acuña
+2680,71,Argentina,Marcos Javier Acuña,Left Wing,Pass,,100.4,7.4,112.6,14.7,Alexis Mac Allister
+2685,71,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,112.6,7.9,99.5,9.6,Lionel Andrés Messi Cuccittini
+2688,71,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,106.8,23.9,98.2,31.8,Enzo Fernandez
+2691,71,Argentina,Enzo Fernandez,Center Defensive Midfield,Shot,Saved,98.9,32.2,117.8,40.4,
+2693,71,France,Hugo Lloris,Goalkeeper,Pass,,10.1,38.6,34.7,18.8,Adrien Rabiot
+2696,71,France,Adrien Rabiot,Left Defensive Midfield,Pass,,60,14.5,62.7,4.4,Eduardo Camavinga
+2703,71,France,Eduardo Camavinga,Left Back,Pass,,45.2,2.7,35.1,11.5,Dayotchanculle Upamecano
+2706,71,France,Dayotchanculle Upamecano,Left Center Back,Pass,,31.5,12.3,34.5,35.7,Raphaël Varane
+2709,71,France,Raphaël Varane,Right Center Back,Pass,,43.5,43.8,52,69.9,Jules Koundé
+2712,72,France,Jules Koundé,Right Back,Pass,,63.6,70.9,62.7,55.5,Aurélien Djani Tchouaméni
+2715,72,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,57.8,45.5,65.1,39.7,Adrien Rabiot
+2719,72,France,Adrien Rabiot,Left Defensive Midfield,Pass,,66.8,38.9,48,51.5,Raphaël Varane
+2722,72,France,Raphaël Varane,Right Center Back,Pass,,48,51.5,56.5,22.6,Dayotchanculle Upamecano
+2725,72,France,Dayotchanculle Upamecano,Left Center Back,Pass,,56.5,22.6,83.9,4.6,Randal Kolo Muani
+2729,72,France,Randal Kolo Muani,Right Wing,Pass,,92,8.1,82.4,22,Aurélien Djani Tchouaméni
+2732,72,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,83.1,22,105.3,46.8,Kylian Mbappé Lottin
+2735,72,France,Eduardo Camavinga,Left Back,Pass,,58.5,0.1,48,5.5,Dayotchanculle Upamecano
+2738,72,France,Dayotchanculle Upamecano,Left Center Back,Pass,,54.4,8.3,48,47,Raphaël Varane
+2741,72,France,Raphaël Varane,Right Center Back,Pass,,70,52.3,79,74.2,Jules Koundé
+2744,72,France,Jules Koundé,Right Back,Pass,,79,74.2,93.7,72.2,Kingsley Coman
+2750,72,France,Kingsley Coman,Right Midfield,Pass,,93.5,80,78.3,71.4,Adrien Rabiot
+2753,72,France,Adrien Rabiot,Left Defensive Midfield,Pass,,78.3,71.4,82.6,73.7,Kingsley Coman
+2756,72,France,Kingsley Coman,Right Midfield,Pass,,83.9,75,61.9,61.8,Raphaël Varane
+2759,73,France,Raphaël Varane,Right Center Back,Pass,,61.9,58.8,64.2,34.2,Dayotchanculle Upamecano
+2762,73,France,Dayotchanculle Upamecano,Left Center Back,Pass,,82.8,19.2,97.4,21.1,Kylian Mbappé Lottin
+2769,74,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,36.4,62.6,92,63.3,
+2770,74,France,Dayotchanculle Upamecano,Left Center Back,Pass,,28.1,16.8,45,14.5,
+2780,74,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,17.6,76.3,19.7,68,Enzo Fernandez
+2783,74,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,19.7,68,33,75.9,Rodrigo Javier De Paul
+2786,74,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,45,70.5,90.9,64.8,Julián Álvarez
+2790,74,Argentina,Julián Álvarez,Center Forward,Pass,,108.9,74.2,95.9,75.9,Nahuel Molina Lucero
+2794,74,Argentina,Nahuel Molina Lucero,Right Back,Pass,,92.9,77,86.7,55.6,
+2804,74,France,Kingsley Coman,Right Midfield,Pass,,47.1,29.2,42.6,50.2,Raphaël Varane
+2807,74,France,Raphaël Varane,Right Center Back,Pass,,67.4,57.9,79.6,79.7,Jules Koundé
+2809,75,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,48.4,0.1,71.9,6.2,Lionel Andrés Messi Cuccittini
+2812,75,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,61.4,0.1,56.1,33.3,Julián Álvarez
+2815,75,France,Marcus Thuram,Left Midfield,Pass,,54.2,38.2,70.9,59.6,
+2819,75,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,59.9,22,81.3,38.2,
+2822,75,France,Eduardo Camavinga,Left Back,Pass,,41.6,34.2,54.6,18.5,Marcus Thuram
+2825,75,France,Marcus Thuram,Left Midfield,Pass,,62.9,16.4,55.9,32.9,Aurélien Djani Tchouaméni
+2828,76,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,78.6,29.7,92.3,15.8,Kylian Mbappé Lottin
+2830,76,Argentina,Nahuel Molina Lucero,Right Back,Pass,,27.8,64.3,43.5,61.8,Lionel Andrés Messi Cuccittini
+2833,76,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,49,66.5,73,73.7,Rodrigo Javier De Paul
+2839,76,Argentina,Nahuel Molina Lucero,Right Back,Pass,,79.4,76.5,64.6,73.3,Lionel Andrés Messi Cuccittini
+2841,76,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,85.6,72.7,75.8,68,Nahuel Molina Lucero
+2844,76,Argentina,Nahuel Molina Lucero,Right Back,Pass,,75.8,68.2,86.7,75.7,Lionel Andrés Messi Cuccittini
+2847,76,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,86.7,76.1,95.9,77.8,Rodrigo Javier De Paul
+2851,76,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,95.2,55.4,87.3,55.4,Alexis Mac Allister
+2854,76,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,87.3,55.4,80.3,51.3,Enzo Fernandez
+2857,76,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,80,51.3,87.3,69.7,Lionel Andrés Messi Cuccittini
+2860,77,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,92.9,64.8,108.5,59.2,Rodrigo Javier De Paul
+2864,77,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,112.1,59.8,117.9,42.1,Marcos Javier Acuña
+2867,77,France,Hugo Lloris,Goalkeeper,Pass,,13.7,42.7,82.2,55.3,
+2872,77,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,49.2,15.4,55,12.6,Marcos Javier Acuña
+2875,77,Argentina,Marcos Javier Acuña,Left Wing,Pass,,55.2,11.7,52,26.5,Alexis Mac Allister
+2879,77,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,66.6,28.2,55.9,25.4,Enzo Fernandez
+2882,77,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,55.9,27.5,69.1,67.3,Rodrigo Javier De Paul
+2884,77,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,69.1,67.3,48,66.9,Nahuel Molina Lucero
+2887,77,Argentina,Nahuel Molina Lucero,Right Back,Pass,,48,66.9,57.6,61.1,Enzo Fernandez
+2889,77,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,57.6,61.1,66.1,74,Rodrigo Javier De Paul
+2892,77,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,66.1,74,58.4,64.8,Enzo Fernandez
+2895,77,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,63.4,66.7,58.4,76.1,Rodrigo Javier De Paul
+2899,77,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,61.4,76.1,70,76.3,Lionel Andrés Messi Cuccittini
+2906,77,France,Eduardo Camavinga,Left Back,Pass,,50.8,4.2,54.6,4.4,
+2908,78,Argentina,Nahuel Molina Lucero,Right Back,Pass,,69.1,80,69.6,66.9,Enzo Fernandez
+2912,78,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,70.8,66,70,75.2,Nahuel Molina Lucero
+2916,78,Argentina,Nahuel Molina Lucero,Right Back,Pass,,70,75.2,74.9,75.5,
+2918,78,Argentina,Nahuel Molina Lucero,Right Back,Pass,,74.9,75.5,80.7,70.3,
+2919,78,France,Eduardo Camavinga,Left Back,Pass,,39.4,9.8,60.2,7.8,Kylian Mbappé Lottin
+2922,78,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,60.2,7.6,90.3,18.1,Randal Kolo Muani
+2928,79,France,Kylian Mbappé Lottin,Left Center Forward,Shot,Goal,108,40,120,37.3,
+2930,79,Argentina,Julián Álvarez,Center Forward,Pass,,61,40.1,44.3,40.2,Rodrigo Javier De Paul
+2932,79,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,44.3,40.2,50.1,66,Nahuel Molina Lucero
+2935,79,Argentina,Nahuel Molina Lucero,Right Back,Pass,,43.5,76.3,22.7,56.4,Cristian Gabriel Romero
+2938,79,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,20.6,50.9,20.6,30.3,Nicolás Hernán Otamendi
+2942,79,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,19.1,28.6,6,37,Damián Emiliano Martínez
+2944,80,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,6,37,51.4,4.9,Marcos Javier Acuña
+2947,80,Argentina,Marcos Javier Acuña,Left Wing,Pass,,51.2,4.9,62.5,0.8,Julián Álvarez
+2949,80,France,Jules Koundé,Right Back,Pass,,56.5,80,38.8,50.8,Dayotchanculle Upamecano
+2951,80,France,Dayotchanculle Upamecano,Left Center Back,Pass,,55.7,35.2,55.9,11.1,Eduardo Camavinga
+2954,80,France,Eduardo Camavinga,Left Back,Pass,,55.9,11.1,66.8,2.3,Marcus Thuram
+2958,80,France,Marcus Thuram,Left Midfield,Pass,,68.7,2.7,54.6,5.5,Eduardo Camavinga
+2961,80,France,Eduardo Camavinga,Left Back,Pass,,54.6,5.5,44.1,23.7,Dayotchanculle Upamecano
+2964,80,France,Dayotchanculle Upamecano,Left Center Back,Pass,,66.2,64.1,100,27.5,
+2965,80,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,20.1,52.6,39,56.4,Rodrigo Javier De Paul
+2967,80,France,Eduardo Camavinga,Left Back,Pass,,81.1,23.7,73.6,32.9,Adrien Rabiot
+2976,80,France,Kingsley Coman,Right Midfield,Pass,,84.8,71.2,78.8,58.3,Adrien Rabiot
+2979,80,France,Adrien Rabiot,Left Defensive Midfield,Pass,,79.2,54.1,93.1,24.1,Kylian Mbappé Lottin
+2982,80,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,93.1,24.1,94.8,36.3,Marcus Thuram
+2985,80,France,Marcus Thuram,Left Midfield,Pass,,94.8,36.3,104.8,30.1,Kylian Mbappé Lottin
+2987,80,France,Kylian Mbappé Lottin,Left Center Forward,Shot,Goal,104.8,30.1,120,41.5,
+2989,82,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,61,40.1,46.5,43.4,Enzo Fernandez
+2991,82,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,50.3,45.5,47.3,59.2,Rodrigo Javier De Paul
+2993,82,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,47.3,59.2,28.7,59,Cristian Gabriel Romero
+2995,82,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,28.7,59,43.9,49.4,Enzo Fernandez
+2999,82,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,44.7,48.1,40.7,17.7,Nicolás Alejandro Tagliafico
+3002,82,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,40.3,14.5,55.4,5.1,Marcos Javier Acuña
+3005,82,Argentina,Marcos Javier Acuña,Left Wing,Pass,,55.4,5.1,95.2,9.2,Alexis Mac Allister
+3008,82,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,89.5,0.1,112.3,8.3,Julián Álvarez
+3012,83,Argentina,Julián Álvarez,Center Forward,Pass,,110.2,7.2,98.2,5.3,Nicolás Alejandro Tagliafico
+3015,83,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,98.2,5.3,99.3,11.3,Julián Álvarez
+3019,83,Argentina,Julián Álvarez,Center Forward,Pass,,91.6,14.7,89.2,32.7,Rodrigo Javier De Paul
+3022,83,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,88.6,29.5,94.8,23.9,Julián Álvarez
+3025,83,Argentina,Julián Álvarez,Center Forward,Pass,,96.7,22.4,99.1,19,Nicolás Alejandro Tagliafico
+3030,83,Argentina,Julián Álvarez,Center Forward,Pass,,107,17.5,114.1,11.7,Marcos Javier Acuña
+3034,83,Argentina,Marcos Javier Acuña,Left Wing,Pass,,107.8,14.7,90.9,31.2,Enzo Fernandez
+3037,83,Argentina,Enzo Fernandez,Center Defensive Midfield,Shot,Blocked,92.2,35.9,101.8,,
+3040,83,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,70.6,48.5,80.3,57.9,Nahuel Molina Lucero
+3043,83,Argentina,Nahuel Molina Lucero,Right Back,Pass,,80.3,57.9,96.3,55.4,
+3044,83,France,Eduardo Camavinga,Left Back,Pass,,23.8,24.7,46.7,32.2,
+3048,83,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,78.8,50,79,58.6,Rodrigo Javier De Paul
+3056,83,France,Adrien Rabiot,Left Defensive Midfield,Pass,,42,17.7,47.3,15.1,
+3062,83,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,45,75.7,47.1,72,Rodrigo Javier De Paul
+3065,83,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,48.6,71.8,55.4,63.1,Enzo Fernandez
+3068,83,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,63.8,59.2,74.7,53.2,Julián Álvarez
+3070,83,Argentina,Julián Álvarez,Center Forward,Pass,,74.7,53.2,75.3,63.9,Lionel Andrés Messi Cuccittini
+3074,83,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,75.8,60.3,77.9,57.1,Julián Álvarez
+3081,84,France,Marcus Thuram,Left Midfield,Pass,,91,19,108.9,15.1,Kylian Mbappé Lottin
+3084,84,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,108.3,20.3,120,57.3,
+3085,84,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,7,36.1,73.8,25.8,
+3088,84,France,Adrien Rabiot,Left Defensive Midfield,Pass,,46.3,50,46.7,66.2,Jules Koundé
+3090,84,France,Jules Koundé,Right Back,Pass,,46.7,66.2,39.6,55.3,Raphaël Varane
+3093,84,France,Raphaël Varane,Right Center Back,Pass,,42.6,57.3,45.4,71.8,Jules Koundé
+3096,84,France,Jules Koundé,Right Back,Pass,,45.4,71.2,40.9,59.6,Raphaël Varane
+3100,84,France,Raphaël Varane,Right Center Back,Pass,,40.7,60.5,12.3,39.7,Hugo Lloris
+3103,85,France,Hugo Lloris,Goalkeeper,Pass,,23.4,29.7,78.8,13.4,Marcus Thuram
+3105,85,France,Marcus Thuram,Left Midfield,Pass,,78.8,13.4,93.5,16.8,
+3107,85,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,26.6,63.3,56.3,60.9,
+3110,85,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,68.3,19.2,70.2,10.8,Adrien Rabiot
+3112,85,France,Adrien Rabiot,Left Defensive Midfield,Pass,,70.2,10.8,48.4,18.1,Dayotchanculle Upamecano
+3115,85,France,Dayotchanculle Upamecano,Left Center Back,Pass,,53.5,21.8,51.2,56,Jules Koundé
+3118,85,France,Jules Koundé,Right Back,Pass,,51.8,56,47.5,45.5,Raphaël Varane
+3121,85,France,Raphaël Varane,Right Center Back,Pass,,52.3,38.9,67,29.5,Adrien Rabiot
+3123,85,France,Adrien Rabiot,Left Defensive Midfield,Pass,,67,29.5,49.5,17.5,Dayotchanculle Upamecano
+3126,85,France,Dayotchanculle Upamecano,Left Center Back,Pass,,49.3,10.6,39.2,64.1,Jules Koundé
+3133,85,France,Jules Koundé,Right Back,Pass,,46.7,75.7,76,67.7,
+3137,86,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,74.7,63,75.8,67.7,Jules Koundé
+3140,86,France,Jules Koundé,Right Back,Pass,,76.4,67.1,80.3,61.5,Kylian Mbappé Lottin
+3143,86,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,80.3,61.5,99.3,47.4,
+3145,86,France,Randal Kolo Muani,Right Center Forward,Pass,,98,32.9,107.9,31.8,
+3149,86,France,Randal Kolo Muani,Right Center Forward,Pass,,96.7,30.7,100.4,24.1,Marcus Thuram
+3152,86,France,Marcus Thuram,Left Midfield,Pass,,101.2,23.9,106.4,28.4,Adrien Rabiot
+3156,86,France,Adrien Rabiot,Left Defensive Midfield,Pass,,104,25.2,106.6,27.3,Marcus Thuram
+3161,87,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,18.4,51.7,85.2,69.9,
+3166,89,France,Eduardo Camavinga,Left Back,Pass,,34.9,10.2,30.6,47.8,Raphaël Varane
+3168,89,France,Raphaël Varane,Right Center Back,Pass,,44.8,52.6,97.4,19,
+3171,89,France,Eduardo Camavinga,Left Back,Pass,,99.5,0.1,87.3,5.1,Adrien Rabiot
+3174,89,France,Adrien Rabiot,Left Defensive Midfield,Pass,,89.7,3.8,109.4,36.5,
+3177,89,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,21.9,69.7,32.3,66.7,Lionel Andrés Messi Cuccittini
+3179,89,France,Adrien Rabiot,Left Defensive Midfield,Pass,,87.8,13.4,92,25.6,Kylian Mbappé Lottin
+3181,89,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,92.3,25.4,111.9,65.6,Kingsley Coman
+3185,89,France,Kingsley Coman,Right Midfield,Pass,,111.7,68.8,69.8,61.8,Jules Koundé
+3189,90,France,Jules Koundé,Right Back,Pass,,70.4,59.8,54.6,42.1,Raphaël Varane
+3192,90,France,Raphaël Varane,Right Center Back,Pass,,54.8,39.9,56.7,14.9,Dayotchanculle Upamecano
+3195,90,France,Dayotchanculle Upamecano,Left Center Back,Pass,,56.3,19.4,54,56.8,Jules Koundé
+3198,90,France,Jules Koundé,Right Back,Pass,,52.9,60.9,75.8,73.1,Kingsley Coman
+3204,90,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,25.5,28.6,62.9,26.9,Julián Álvarez
+3208,90,Argentina,Julián Álvarez,Center Forward,Pass,,61.9,35.2,67,45.1,Lionel Andrés Messi Cuccittini
+3210,90,France,Dayotchanculle Upamecano,Left Center Back,Pass,,53.1,35,83.3,28.8,Marcus Thuram
+3212,90,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,36.8,51.3,52,51.1,Enzo Fernandez
+3215,90,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,57.6,49.8,96.9,22.2,Marcos Javier Acuña
+3217,90,France,Jules Koundé,Right Back,Pass,,23.2,57.9,39.2,55.8,
+3218,90,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,80.9,24.3,101.2,13,Marcos Javier Acuña
+3220,90,Argentina,Marcos Javier Acuña,Left Wing,Pass,,101.2,13,120,23.1,Nicolás Alejandro Tagliafico
+3222,91,France,Hugo Lloris,Goalkeeper,Pass,,6,44,74.7,25.6,Randal Kolo Muani
+3224,91,France,Randal Kolo Muani,Right Center Forward,Pass,,74.7,25.6,82.6,25.2,Marcus Thuram
+3231,92,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,86.7,18.1,106.2,30.7,
+3236,92,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,20.1,28,18.4,13.9,Marcos Javier Acuña
+3240,92,Argentina,Marcos Javier Acuña,Left Wing,Pass,,18,13.9,21.6,13.9,
+3242,92,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,44.5,0.1,25.7,10.4,Nicolás Hernán Otamendi
+3244,92,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,21.9,25,25.9,58.8,Nahuel Molina Lucero
+3248,92,Argentina,Nahuel Molina Lucero,Right Back,Pass,,31.7,63.3,62.5,75.7,Rodrigo Javier De Paul
+3257,92,France,Kylian Mbappé Lottin,Left Center Forward,Shot,Blocked,95.9,32.2,100.7,,
+3260,93,France,Kingsley Coman,Right Midfield,Pass,,120,0.1,113,38,
+3264,93,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,91.6,33.7,89.3,19.4,Eduardo Camavinga
+3267,93,France,Eduardo Camavinga,Left Back,Pass,,90.1,18.3,98.7,2.9,Kingsley Coman
+3281,93,France,Eduardo Camavinga,Left Back,Pass,,113.6,19.8,108.9,28.5,Adrien Rabiot
+3283,93,France,Adrien Rabiot,Left Defensive Midfield,Shot,Saved,108.9,28.5,118,36.6,
+3285,93,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,3.7,42.5,2.2,45.5,Damián Emiliano Martínez
+3288,93,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,4.3,44,21.2,57.9,Enzo Fernandez
+3290,94,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,45.2,51.9,49.7,62.2,Julián Álvarez
+3294,94,Argentina,Julián Álvarez,Center Forward,Pass,,51.6,59.4,53.5,69.3,Nahuel Molina Lucero
+3297,94,Argentina,Nahuel Molina Lucero,Right Back,Pass,,54.8,70.3,65.7,77.8,Lionel Andrés Messi Cuccittini
+3304,94,Argentina,Nahuel Molina Lucero,Right Back,Pass,,89.7,80,96.3,64.3,Lionel Andrés Messi Cuccittini
+3308,94,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,94.6,61.1,86,61.3,Cristian Gabriel Romero
+3311,94,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,85.8,61.6,97.8,67.1,Nahuel Molina Lucero
+3313,94,France,Eduardo Camavinga,Left Back,Pass,,22.3,13,44.8,2.7,Kylian Mbappé Lottin
+3317,95,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,79.4,4.6,95.5,21.5,Randal Kolo Muani
+3328,95,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,110.9,23.5,113.4,23.9,Randal Kolo Muani
+3336,95,Argentina,Nahuel Molina Lucero,Right Back,Pass,,24,71.2,43.9,76.1,Rodrigo Javier De Paul
+3339,95,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,43.7,76.1,39.4,60.3,Enzo Fernandez
+3342,95,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,44.1,59,52.7,66.3,Lionel Andrés Messi Cuccittini
+3346,95,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,83,51.3,102.9,13.6,Marcos Javier Acuña
+3349,95,Argentina,Marcos Javier Acuña,Left Wing,Pass,,99.9,25.8,111.5,20.9,Nicolás Alejandro Tagliafico
+3351,95,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,111.5,20.9,108.3,30.3,
+3357,95,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,31.5,53,49.7,71.8,Jules Koundé
+3359,96,France,Jules Koundé,Right Back,Pass,,55.9,73.3,45.2,61.1,Raphaël Varane
+3362,96,France,Raphaël Varane,Right Center Back,Pass,,45.6,55.3,46.9,49.6,Aurélien Djani Tchouaméni
+3365,96,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,48.4,41.2,24.2,34.6,Hugo Lloris
+3368,96,France,Hugo Lloris,Goalkeeper,Pass,,26.6,31.8,79.6,16.8,Marcus Thuram
+3370,96,France,Marcus Thuram,Left Midfield,Pass,,79.6,16.8,89.9,38.2,Randal Kolo Muani
+3372,96,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,30.2,41.9,37.3,50,Enzo Fernandez
+3374,96,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,37.3,50,47.5,37,Alexis Mac Allister
+3377,96,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,52,34.8,69.3,12.8,Marcos Javier Acuña
+3380,96,Argentina,Marcos Javier Acuña,Left Wing,Pass,,70.2,12.8,95.4,9.2,Julián Álvarez
+3383,96,Argentina,Julián Álvarez,Center Forward,Pass,,95.4,8.1,89.5,31,Rodrigo Javier De Paul
+3386,96,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,89.5,31,92,54.7,Lionel Andrés Messi Cuccittini
+3389,96,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Shot,Saved,96.2,40.9,117.6,39.3,
+3391,97,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,120,0.1,113.4,35.9,
+3398,97,France,Raphaël Varane,Right Center Back,Pass,,24.4,52.3,42,36.1,Aurélien Djani Tchouaméni
+3400,97,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,48.6,49.1,55,34.2,Adrien Rabiot
+3402,97,France,Adrien Rabiot,Left Defensive Midfield,Pass,,66.4,11.1,64.2,28,Aurélien Djani Tchouaméni
+3405,98,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,62.7,33.5,65.9,58.1,Jules Koundé
+3408,98,France,Jules Koundé,Right Back,Pass,,73.4,63,84.3,74.4,Kingsley Coman
+3415,98,France,Kingsley Coman,Right Midfield,Pass,,116.2,66.7,115.4,55.5,
+3417,98,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,6.7,19.6,20.6,31.2,Enzo Fernandez
+3421,98,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,21,28.8,34.5,30.3,Lionel Andrés Messi Cuccittini
+3425,98,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,30.4,27.5,79.4,11.3,Julián Álvarez
+3428,98,Argentina,Julián Álvarez,Center Forward,Pass,,110.6,23.3,99.5,33.5,Lionel Andrés Messi Cuccittini
+3431,98,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,101.4,35.2,102.9,47.9,Rodrigo Javier De Paul
+3434,98,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,102.9,47.7,105.1,36.5,Lionel Andrés Messi Cuccittini
+3437,98,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,15,43.6,23.8,47.8,Eduardo Camavinga
+3444,90,France,Randal Kolo Muani,Right Center Forward,Pass,,61,40.1,51.6,43.2,Aurélien Djani Tchouaméni
+3447,90,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,52,42.5,49.7,30.3,Adrien Rabiot
+3450,90,France,Adrien Rabiot,Left Defensive Midfield,Pass,,51.6,19.8,52.2,8.5,Eduardo Camavinga
+3453,90,France,Eduardo Camavinga,Left Back,Pass,,52,9.2,39.2,20.1,Dayotchanculle Upamecano
+3456,90,France,Dayotchanculle Upamecano,Left Center Back,Pass,,44.5,23.1,39.2,59,Jules Koundé
+3459,90,France,Jules Koundé,Right Back,Pass,,39.4,60.1,77.9,74.8,Kingsley Coman
+3462,90,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,42.2,5.3,40.7,13.6,Alexis Mac Allister
+3465,90,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,42.4,13.6,30.4,14.1,Nicolás Hernán Otamendi
+3468,90,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,30.2,14.1,33.9,23.5,Enzo Fernandez
+3471,90,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,36,25.6,44.6,19.2,Alexis Mac Allister
+3475,90,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,64,16.2,76.6,23.2,Julián Álvarez
+3478,90,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,36.2,45.1,62.7,33.7,
+3479,90,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,57.4,46.4,81.3,40.2,
+3480,90,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,38.8,39.9,45.6,37.4,Enzo Fernandez
+3482,90,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,45.2,36.3,50.1,46.6,Rodrigo Javier De Paul
+3487,91,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,53.3,44.2,85.2,2.5,Marcos Javier Acuña
+3490,91,Argentina,Marcos Javier Acuña,Left Wing,Pass,,77.3,4.6,55,14.9,Nicolás Hernán Otamendi
+3493,91,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,52.7,16.6,44.3,47,Cristian Gabriel Romero
+3496,91,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,42.6,50.2,74.7,74.6,Gonzalo Ariel Montiel
+3502,91,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,84.6,73.3,75.8,71.8,Lionel Andrés Messi Cuccittini
+3504,91,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,79.8,72,72.8,58.3,Enzo Fernandez
+3507,91,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,71.5,53.4,68.5,66,Gonzalo Ariel Montiel
+3510,91,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,71.1,67.7,77.5,74.4,Lionel Andrés Messi Cuccittini
+3513,91,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,78.3,73.9,90.3,74.8,Rodrigo Javier De Paul
+3517,91,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,86.9,72.9,78.8,59.8,Enzo Fernandez
+3520,91,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,83.9,54.5,94.6,4.6,Marcos Javier Acuña
+3523,92,Argentina,Marcos Javier Acuña,Left Wing,Pass,,101.4,4.2,110.9,37.2,
+3526,92,Argentina,Alexis Mac Allister,Left Center Midfield,Shot,Off T,98.2,23.8,120,28,
+3528,92,France,Hugo Lloris,Goalkeeper,Pass,,7,44.1,85.4,75.7,Kingsley Coman
+3530,92,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,34.7,4.4,43.9,17.9,Alexis Mac Allister
+3533,92,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,40.5,14.7,48.4,9.6,Marcos Javier Acuña
+3536,92,Argentina,Marcos Javier Acuña,Left Wing,Pass,,49,8.9,51.2,20.7,Alexis Mac Allister
+3539,92,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,59.3,19,55.9,41,Rodrigo Javier De Paul
+3542,92,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,74.3,37.4,84.3,54.7,Lionel Andrés Messi Cuccittini
+3552,93,France,Eduardo Camavinga,Left Back,Pass,,22.7,14.5,25.5,66,Jules Koundé
+3554,93,France,Jules Koundé,Right Back,Pass,,29.6,66,27,49.2,Raphaël Varane
+3557,93,France,Raphaël Varane,Right Center Back,Pass,,27.8,47.2,38.8,30.8,Adrien Rabiot
+3560,93,France,Adrien Rabiot,Left Defensive Midfield,Pass,,45.2,35,34.7,48.7,Raphaël Varane
+3563,93,France,Raphaël Varane,Right Center Back,Pass,,45.8,52.8,52,74.8,Jules Koundé
+3566,93,France,Jules Koundé,Right Back,Pass,,52,74.8,45.2,65,Aurélien Djani Tchouaméni
+3569,93,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,44.7,65,48.2,76.7,Jules Koundé
+3572,93,France,Jules Koundé,Right Back,Pass,,47.7,77.8,11.6,54.1,Hugo Lloris
+3574,93,France,Hugo Lloris,Goalkeeper,Pass,,12.2,50.2,80.5,31.2,Marcus Thuram
+3576,93,France,Marcus Thuram,Left Midfield,Pass,,80.5,31.2,94.6,35.5,Kylian Mbappé Lottin
+3579,93,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,25.5,44.6,37.9,48.5,Cristian Gabriel Romero
+3582,93,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,38.3,51.7,67,54.7,
+3585,93,France,Dayotchanculle Upamecano,Left Center Back,Pass,,50.1,24.1,59.7,17.7,Aurélien Djani Tchouaméni
+3588,93,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,62.5,18.8,63.4,8.1,Eduardo Camavinga
+3591,93,France,Eduardo Camavinga,Left Back,Pass,,67.2,7.2,48.8,17.7,Dayotchanculle Upamecano
+3594,93,France,Dayotchanculle Upamecano,Left Center Back,Pass,,49,20.1,54.4,25.6,Adrien Rabiot
+3598,94,France,Adrien Rabiot,Left Defensive Midfield,Pass,,73,60.9,86.2,53.4,Randal Kolo Muani
+3605,94,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,25.3,32.4,37.5,50,Rodrigo Javier De Paul
+3615,94,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,36.6,54.1,52.3,36.5,Julián Álvarez
+3618,94,Argentina,Julián Álvarez,Center Forward,Pass,,51.6,34.8,47.1,15.3,Marcos Javier Acuña
+3622,94,Argentina,Marcos Javier Acuña,Left Wing,Pass,,46.3,16.2,33.4,24.5,Nicolás Hernán Otamendi
+3626,94,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,35.1,20,45,16,Marcos Javier Acuña
+3629,94,Argentina,Marcos Javier Acuña,Left Wing,Pass,,48.4,15.8,13.3,34.6,Damián Emiliano Martínez
+3633,94,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,11.6,32.4,74.3,7.4,
+3637,95,France,Raphaël Varane,Right Center Back,Pass,,46.5,74.2,43.9,20.7,Eduardo Camavinga
+3639,95,France,Eduardo Camavinga,Left Back,Pass,,46.7,13,55.4,21.3,Youssouf Fofana
+3642,95,France,Youssouf Fofana,Left Defensive Midfield,Pass,,55.9,21.6,54.8,11.7,Eduardo Camavinga
+3645,95,France,Eduardo Camavinga,Left Back,Pass,,55,11.5,76.4,6.2,Marcus Thuram
+3649,95,France,Marcus Thuram,Left Midfield,Pass,,76,7,70.2,12.6,Eduardo Camavinga
+3654,95,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,69.3,27.8,74.7,14.7,Youssouf Fofana
+3657,95,France,Youssouf Fofana,Left Defensive Midfield,Pass,,75.5,13.2,68.9,31,Aurélien Djani Tchouaméni
+3661,95,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,64.2,44.7,61.2,68,Jules Koundé
+3664,95,France,Jules Koundé,Right Back,Pass,,63.4,67.5,56.9,51.5,Raphaël Varane
+3667,95,France,Raphaël Varane,Right Center Back,Pass,,56.9,49.8,63.8,46.6,Youssouf Fofana
+3670,95,France,Youssouf Fofana,Left Defensive Midfield,Pass,,57.8,45.7,55.2,33.1,Dayotchanculle Upamecano
+3673,95,France,Dayotchanculle Upamecano,Left Center Back,Pass,,56.9,31.2,60.4,10.6,Eduardo Camavinga
+3676,95,France,Eduardo Camavinga,Left Back,Pass,,61,10,54.6,18.6,Dayotchanculle Upamecano
+3679,95,France,Dayotchanculle Upamecano,Left Center Back,Pass,,57.2,22.2,89.7,19.8,Kylian Mbappé Lottin
+3682,96,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,30.2,62.6,41.6,32.2,Enzo Fernandez
+3684,96,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,44.6,44.9,48.6,57,Rodrigo Javier De Paul
+3687,96,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,47.1,54.9,42,27.7,Nicolás Hernán Otamendi
+3690,96,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,40.7,25.2,49.5,10,Nicolás Alejandro Tagliafico
+3693,96,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,47.5,8.7,39,18.1,Nicolás Hernán Otamendi
+3696,96,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,38.8,20.7,41.8,29.2,Enzo Fernandez
+3699,96,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,39.8,35.7,53.7,42.3,Rodrigo Javier De Paul
+3702,96,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,54.8,42.1,73,47,Lionel Andrés Messi Cuccittini
+3705,96,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,73.6,46.8,78.8,30.1,Alexis Mac Allister
+3708,96,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,80.5,29.2,100.4,4.9,Marcos Javier Acuña
+3711,96,Argentina,Marcos Javier Acuña,Left Wing,Pass,,114.7,4.2,109.6,42.5,
+3715,97,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,100,57.5,119.8,19.8,
+3716,97,France,Hugo Lloris,Goalkeeper,Pass,,7,36.1,85.4,50.6,
+3717,97,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,34.7,29.5,46,13.2,Marcos Javier Acuña
+3725,97,France,Kingsley Coman,Right Midfield,Pass,,92.2,72.5,107.6,45.3,
+3728,98,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,10.8,30.7,19.7,23.2,Nicolás Hernán Otamendi
+3730,98,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,20.8,23.2,20.6,52.1,Cristian Gabriel Romero
+3733,98,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,20.6,52.3,34.3,52.1,Enzo Fernandez
+3736,98,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,35.8,62.2,43.7,75.2,Gonzalo Ariel Montiel
+3739,98,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,43.7,75.2,35.1,70.5,Enzo Fernandez
+3757,98,Argentina,Enzo Fernandez,Center Defensive Midfield,Pass,,21,48.9,25.3,46.6,Alexis Mac Allister
+3760,98,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,25.3,47.6,34.1,73.1,Rodrigo Javier De Paul
+3764,98,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,39.4,75.2,65.5,75.7,Lionel Andrés Messi Cuccittini
+3768,98,France,Eduardo Camavinga,Left Back,Pass,,50.7,7.9,64,19.4,Aurélien Djani Tchouaméni
+3771,98,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,65.1,20.3,88,24.3,Kylian Mbappé Lottin
+3781,98,Argentina,Julián Álvarez,Center Forward,Pass,,18.9,54.3,5,69.5,Rodrigo Javier De Paul
+3784,99,Argentina,Rodrigo Javier De Paul,Right Center Midfield,Pass,,5,69.5,21.5,74.4,Julián Álvarez
+3793,99,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,7.3,75.4,9.7,75,
+3797,99,France,Kingsley Coman,Right Midfield,Pass,,111.1,6.2,108.1,37.4,
+3802,99,France,Youssouf Fofana,Left Defensive Midfield,Shot,Blocked,89.8,39.9,103.3,,
+3806,100,France,Kingsley Coman,Right Midfield,Pass,,120,0.1,115.5,28.4,
+3808,100,France,Youssouf Fofana,Left Defensive Midfield,Pass,,88.4,50,94.6,72.3,Jules Koundé
+3810,100,France,Jules Koundé,Right Back,Pass,,97.4,72.3,106.6,40.2,Raphaël Varane
+3812,101,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,13.1,40.8,22.9,54.3,Cristian Gabriel Romero
+3814,101,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,24.4,60.5,55.2,73.9,Gonzalo Ariel Montiel
+3818,101,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,67.2,75,68.3,70.9,
+3822,101,France,Marcus Thuram,Left Midfield,Pass,,50.5,10.6,73.2,7.4,Randal Kolo Muani
+3837,102,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,51.6,68,45.2,60.9,Cristian Gabriel Romero
+3839,102,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,44.6,58.3,38.8,28.8,Nicolás Hernán Otamendi
+3842,102,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,38.6,28.2,36,50.4,Cristian Gabriel Romero
+3845,102,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,36.2,55.3,41.6,71.4,Enzo Fernandez
+3848,102,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,40.1,71.6,54.2,74.2,Gonzalo Ariel Montiel
+3851,102,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,54.4,73.7,65.1,66.5,Enzo Fernandez
+3857,102,France,Youssouf Fofana,Left Defensive Midfield,Pass,,55,23.9,105.9,44.9,
+3860,102,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,12.9,34.6,23.6,25.2,Nicolás Hernán Otamendi
+3863,102,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,24.7,26.7,22.3,44.2,Leandro Daniel Paredes
+3866,102,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,37.7,46.1,39.6,70.7,Cristian Gabriel Romero
+3869,103,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,50.8,66.5,92.9,23.2,Marcos Javier Acuña
+3871,103,France,Jules Koundé,Right Back,Pass,,27.2,56.9,41.8,58.6,Kingsley Coman
+3876,103,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,75.8,9.6,55,19.2,Leandro Daniel Paredes
+3879,103,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,51.2,22.4,65.7,37.4,Enzo Fernandez
+3882,103,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,65.3,37.4,66.8,30.5,Alexis Mac Allister
+3885,103,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,70.4,31.2,71.7,38.9,Enzo Fernandez
+3888,103,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,67.7,43.4,58.9,32.9,Leandro Daniel Paredes
+3891,103,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,64.9,35.2,90.1,21.8,Marcos Javier Acuña
+3895,103,Argentina,Marcos Javier Acuña,Left Wing,Pass,,108.1,20.7,119.8,44.2,
+3896,104,France,Hugo Lloris,Goalkeeper,Pass,,7,36.1,68.3,31.6,
+3898,104,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,51.8,48.5,68.1,49.1,Lautaro Javier Martínez
+3902,104,Argentina,Lautaro Javier Martínez,Center Forward,Pass,,74.3,47.8,73,58.5,Enzo Fernandez
+3905,104,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,77.9,54.7,80.1,40.6,Alexis Mac Allister
+3908,104,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,80.5,40.4,86.5,25.4,Marcos Javier Acuña
+3910,104,Argentina,Marcos Javier Acuña,Left Wing,Pass,,86.5,25.4,74.9,24.1,Nicolás Alejandro Tagliafico
+3913,104,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,75.1,23.9,81.6,30.5,Alexis Mac Allister
+3916,104,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,80.9,34.6,83.7,44,Lionel Andrés Messi Cuccittini
+3920,104,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,86,34.4,97,45.3,Alexis Mac Allister
+3923,104,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,97,45.3,101,38.2,Lionel Andrés Messi Cuccittini
+3927,104,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,103.4,37.6,107.9,47.8,Lautaro Javier Martínez
+3930,104,Argentina,Lautaro Javier Martínez,Center Forward,Shot,Blocked,108.8,45.3,110.6,,
+3934,104,Argentina,Gonzalo Ariel Montiel,Right Back,Shot,Blocked,96.3,49.4,112.7,,
+3937,105,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,120,0.1,102.5,70.1,Enzo Fernandez
+3941,105,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,28.5,0.1,23.1,8.7,Eduardo Camavinga
+3944,105,France,Eduardo Camavinga,Left Back,Pass,,24.2,7.7,17.4,17.3,Dayotchanculle Upamecano
+3947,105,France,Dayotchanculle Upamecano,Left Center Back,Pass,,14.4,18.3,19.5,39.7,Raphaël Varane
+3950,105,France,Raphaël Varane,Right Center Back,Pass,,19.3,40,33.8,35,Youssouf Fofana
+3954,105,France,Youssouf Fofana,Left Defensive Midfield,Pass,,35.1,41,39,66.5,Jules Koundé
+3957,105,France,Jules Koundé,Right Back,Pass,,41.1,77.8,54.8,76.1,Kingsley Coman
+3966,105,Argentina,Marcos Javier Acuña,Left Wing,Pass,,71.5,8.3,98.5,32.4,Lautaro Javier Martínez
+3970,105,Argentina,Lautaro Javier Martínez,Center Forward,Shot,Off T,105.1,33.5,120,34.9,
+3972,106,France,Hugo Lloris,Goalkeeper,Pass,,7,36.1,36.4,25.4,Youssouf Fofana
+3974,106,France,Youssouf Fofana,Left Defensive Midfield,Pass,,40.5,25,37.9,13.6,Eduardo Camavinga
+3980,105,Argentina,Lautaro Javier Martínez,Center Forward,Pass,,61,40.1,49.5,39.3,Leandro Daniel Paredes
+3983,105,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,51.8,42.7,45.4,68.8,Gonzalo Ariel Montiel
+3986,105,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,50.3,64.6,42.4,50,Leandro Daniel Paredes
+3989,105,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,44.7,30.8,50.9,21.6,Nicolás Hernán Otamendi
+3992,105,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,55.7,18.1,77.7,4.9,Nicolás Alejandro Tagliafico
+3996,105,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,81.8,3.6,89.2,7,Marcos Javier Acuña
+4003,105,France,Kingsley Coman,Right Midfield,Pass,,7.3,75,17.6,75,
+4006,105,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,102.1,4.7,93.3,18.6,Alexis Mac Allister
+4009,105,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,93.5,18.6,83,26.5,Leandro Daniel Paredes
+4012,105,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,82.8,26.5,90.7,57.7,Lionel Andrés Messi Cuccittini
+4015,105,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,92.9,60.1,111.5,66.3,Gonzalo Ariel Montiel
+4017,105,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,111.5,66.3,120,30.1,
+4018,106,France,Hugo Lloris,Goalkeeper,Pass,,6,44,83.5,25.2,
+4019,106,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,36.6,54.9,42.8,72.5,Gonzalo Ariel Montiel
+4022,106,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,43.2,74.4,43.9,63.5,Leandro Daniel Paredes
+4025,106,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,44.1,56,46,22,Nicolás Alejandro Tagliafico
+4028,106,Argentina,Nicolás Alejandro Tagliafico,Left Back,Pass,,42.6,15.1,34.3,18.1,Nicolás Hernán Otamendi
+4031,106,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,33.2,23.9,32.8,56.9,Cristian Gabriel Romero
+4034,106,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,32.3,61.8,45.6,76.1,Enzo Fernandez
+4037,106,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,50.1,73.5,110,60.3,Gonzalo Ariel Montiel
+4040,106,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,111.7,80,103.6,55.8,Lionel Andrés Messi Cuccittini
+4042,106,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Shot,Saved,103.6,55.8,119,43.9,
+4046,107,France,Hugo Lloris,Goalkeeper,Pass,,6,44,68.3,47.8,
+4047,107,Argentina,Lautaro Javier Martínez,Center Forward,Pass,,51.8,32.3,64.4,41.7,
+4048,107,France,Dayotchanculle Upamecano,Left Center Back,Pass,,55.7,38.4,66.4,38.2,Aurélien Djani Tchouaméni
+4050,107,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,66.4,38.2,77.3,36.7,
+4053,107,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,43.2,46.2,63.1,70.8,Gonzalo Ariel Montiel
+4056,107,Argentina,Gonzalo Ariel Montiel,Right Back,Pass,,64.2,74,94.2,56.4,Lautaro Javier Martínez
+4058,107,Argentina,Lautaro Javier Martínez,Center Forward,Pass,,94.2,56.4,91.2,58.8,Lionel Andrés Messi Cuccittini
+4061,107,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Pass,,91.2,58.8,95.4,49.4,Enzo Fernandez
+4064,107,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,95.4,49.4,109.3,56.9,Lautaro Javier Martínez
+4067,107,Argentina,Lautaro Javier Martínez,Center Forward,Shot,Saved,114.4,52,118.7,44.1,
+4070,107,Argentina,Lionel Andrés Messi Cuccittini,Right Wing,Shot,Goal,116.6,43,120,40.9,
+4072,109,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,60,40,48.6,52.1,Jules Koundé
+4074,110,France,Jules Koundé,Right Back,Pass,,54.4,71.6,45.4,54.9,Raphaël Varane
+4078,110,France,Raphaël Varane,Right Center Back,Pass,,43.7,53.2,15.9,42.7,Hugo Lloris
+4081,110,France,Hugo Lloris,Goalkeeper,Pass,,21,27.7,119.8,14.7,
+4082,110,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,7,44.1,74.7,71.8,
+4084,110,France,Marcus Thuram,Left Midfield,Pass,,45.4,8.3,36.4,21.8,Raphaël Varane
+4087,110,France,Raphaël Varane,Right Center Back,Pass,,37.5,21.5,76.6,4,Marcus Thuram
+4089,111,France,Marcus Thuram,Left Midfield,Pass,,76.6,4,101,6.6,
+4092,111,France,Randal Kolo Muani,Right Center Forward,Pass,,90.8,17,86.3,8.7,Marcus Thuram
+4102,111,Argentina,Cristian Gabriel Romero,Right Center Back,Pass,,13.3,64.8,85.8,38.9,
+4103,111,France,Raphaël Varane,Right Center Back,Pass,,34.3,41.2,36.6,24.7,Dayotchanculle Upamecano
+4107,111,France,Dayotchanculle Upamecano,Left Center Back,Pass,,34.9,22.8,17.6,36.9,Hugo Lloris
+4110,111,France,Hugo Lloris,Goalkeeper,Pass,,17.6,36.9,43.5,3.6,Eduardo Camavinga
+4113,111,France,Eduardo Camavinga,Left Back,Pass,,46.3,6.6,56.7,26.7,Youssouf Fofana
+4119,111,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,41.8,48.5,34.7,43.4,Nicolás Hernán Otamendi
+4121,111,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,34.5,43.2,43.9,43.2,Alexis Mac Allister
+4124,111,Argentina,Alexis Mac Allister,Left Center Midfield,Pass,,53.7,47.2,50.9,58.8,Enzo Fernandez
+4127,111,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,49.7,57.9,73.2,6.4,Marcos Javier Acuña
+4130,111,Argentina,Marcos Javier Acuña,Left Wing,Pass,,75.3,5.7,83.7,20.1,Lautaro Javier Martínez
+4138,111,France,Raphaël Varane,Right Center Back,Pass,,3.3,68.6,5.6,79.3,
+4140,112,Argentina,Marcos Javier Acuña,Left Wing,Pass,,115.8,0.1,115.8,9.6,Lautaro Javier Martínez
+4143,112,Argentina,Lautaro Javier Martínez,Center Forward,Pass,,118.5,4,116.8,6.6,
+4145,112,Argentina,Marcos Javier Acuña,Left Wing,Pass,,114.9,0.1,116,10.9,Lautaro Javier Martínez
+4150,112,Argentina,Lautaro Javier Martínez,Center Forward,Pass,,114.1,9.2,116,4.7,Marcos Javier Acuña
+4163,113,France,Hugo Lloris,Goalkeeper,Pass,,6,44,14,22.2,Eduardo Camavinga
+4169,114,France,Kingsley Coman,Right Midfield,Pass,,77.9,13.8,104.2,53,
+4174,114,France,Youssouf Fofana,Left Defensive Midfield,Pass,,86.3,49.6,87.1,69.7,Jules Koundé
+4177,114,France,Jules Koundé,Right Back,Pass,,89.7,69.7,81.8,60,Aurélien Djani Tchouaméni
+4182,114,France,Youssouf Fofana,Left Defensive Midfield,Pass,,70.2,51.3,72.6,64.3,Jules Koundé
+4184,114,France,Jules Koundé,Right Back,Pass,,72.8,64.3,105.7,63.2,Ibrahima Konaté
+4189,114,France,Ibrahima Konaté,Right Center Back,Pass,,116,68,115.8,64.3,
+4193,115,France,Kingsley Coman,Right Midfield,Pass,,120,80,108.1,37.2,Dayotchanculle Upamecano
+4199,115,France,Kylian Mbappé Lottin,Left Center Forward,Shot,Blocked,101.4,26.6,104.5,,
+4203,117,France,Kylian Mbappé Lottin,Left Center Forward,Shot,Goal,108,40,120,36.7,
+4205,118,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,61,40.1,50.7,44.9,Leandro Daniel Paredes
+4207,118,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,50.7,44.9,56.5,52.8,Enzo Fernandez
+4214,118,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,63.1,62.8,94.2,71.4,Gonzalo Ariel Montiel
+4217,118,Argentina,Gonzalo Ariel Montiel,Right Wing Back,Pass,,102.7,70.5,98.9,53.4,
+4221,118,France,Youssouf Fofana,Left Defensive Midfield,Pass,,26.6,19,47.1,26.7,
+4225,118,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,73.8,54.9,82.6,59,Enzo Fernandez
+4227,118,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,82.6,59,82,74,
+4233,118,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,75.8,72.9,83.7,66,Lionel Andrés Messi Cuccittini
+4244,118,Argentina,Lautaro Javier Martínez,Left Center Forward,Pass,,87.7,33.5,79.4,43.6,Enzo Fernandez
+4247,118,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,79.2,43.6,94.6,21.1,Marcos Javier Acuña
+4250,118,Argentina,Marcos Javier Acuña,Left Center Midfield,Pass,,106.4,8.3,108.9,12.8,
+4252,119,Argentina,Lionel Andrés Messi Cuccittini,Right Center Forward,Pass,,120,0.1,112.3,40,
+4256,119,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,83.2,80,96.3,76.3,Gonzalo Ariel Montiel
+4262,119,France,Eduardo Camavinga,Left Back,Pass,,12.3,3.4,15.9,6.1,Marcus Thuram
+4265,119,France,Marcus Thuram,Left Midfield,Pass,,15.9,6.1,27.9,17,Youssouf Fofana
+4268,119,France,Youssouf Fofana,Left Defensive Midfield,Pass,,63.8,12.3,78.1,4.2,Kylian Mbappé Lottin
+4271,119,France,Kylian Mbappé Lottin,Left Center Forward,Pass,,79,4.2,120,47.6,Randal Kolo Muani
+4276,121,Argentina,Damián Emiliano Martínez,Goalkeeper,Pass,,7,44.1,79.8,6.4,Paulo Bruno Exequiel Dybala
+4280,121,Argentina,Paulo Bruno Exequiel Dybala,Left Center Midfield,Pass,,76.2,8.5,94.6,5.3,
+4282,121,Argentina,Marcos Javier Acuña,Left Wing Back,Pass,,99.1,0.1,74.7,11.3,Nicolás Hernán Otamendi
+4285,121,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,71.7,16,53.3,30.5,Germán Alejandro Pezzella
+4288,121,Argentina,Germán Alejandro Pezzella,Center Back,Pass,,53.3,31,64.2,16.4,Nicolás Hernán Otamendi
+4291,121,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,64.2,16.4,78.1,5.3,Marcos Javier Acuña
+4295,121,Argentina,Marcos Javier Acuña,Left Wing Back,Pass,,78.1,7,62.5,7.9,Nicolás Hernán Otamendi
+4299,121,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,56.1,3.6,66.8,7.4,Marcos Javier Acuña
+4301,121,France,Kingsley Coman,Right Midfield,Pass,,53.3,72.7,64.4,73.7,Randal Kolo Muani
+4304,121,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,55.7,6.4,54.6,15.6,Leandro Daniel Paredes
+4306,121,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,52.4,17.3,57.6,13.9,Marcos Javier Acuña
+4315,121,Argentina,Marcos Javier Acuña,Left Wing Back,Pass,,52.7,5.1,79.2,9.6,Paulo Bruno Exequiel Dybala
+4319,121,Argentina,Paulo Bruno Exequiel Dybala,Left Center Midfield,Pass,,79.2,10,87.7,20.5,Lautaro Javier Martínez
+4323,121,France,Kingsley Coman,Right Midfield,Pass,,57.4,75.9,67.7,63,
+4324,121,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,52.4,17.1,64.2,27.5,Enzo Fernandez
+4326,121,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,64.2,27.8,74.1,34.6,Lionel Andrés Messi Cuccittini
+4328,121,Argentina,Lionel Andrés Messi Cuccittini,Right Center Forward,Pass,,74.1,34.6,92.2,29.9,Lautaro Javier Martínez
+4330,122,France,Hugo Lloris,Goalkeeper,Pass,,22.7,50.8,85,53.2,
+4331,122,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,35.1,26.9,58.4,36.7,
+4335,122,France,Ibrahima Konaté,Right Center Back,Pass,,62.7,42.7,103.7,45.1,Randal Kolo Muani
+4337,122,France,Randal Kolo Muani,Right Center Forward,Shot,Saved,103.7,45.1,109.7,44.1,
+4341,122,Argentina,Nicolás Hernán Otamendi,Left Center Back,Pass,,22.5,34.2,48.8,47.2,Paulo Bruno Exequiel Dybala
+4345,122,Argentina,Paulo Bruno Exequiel Dybala,Left Center Midfield,Pass,,44.3,48.3,42.8,54.1,Enzo Fernandez
+4348,122,Argentina,Enzo Fernandez,Right Center Midfield,Pass,,42.8,54.1,58,62.4,Lionel Andrés Messi Cuccittini
+4351,122,Argentina,Lionel Andrés Messi Cuccittini,Right Center Forward,Pass,,66.8,62.6,104.9,62.6,Gonzalo Ariel Montiel
+4355,122,Argentina,Gonzalo Ariel Montiel,Right Wing Back,Pass,,109.3,61.6,110.8,41.6,Lautaro Javier Martínez
+4357,122,Argentina,Lautaro Javier Martínez,Left Center Forward,Shot,Off T,110.8,41.6,120,46.5,
+4359,123,France,Hugo Lloris,Goalkeeper,Pass,,6,36,73.6,60,
+4360,123,Argentina,Marcos Javier Acuña,Left Wing Back,Pass,,46.5,20.1,62.5,25.8,
+4362,123,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Pass,,47.1,27.3,56.1,22,Enzo Fernandez
+4369,123,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Pass,,63.4,36.1,115.8,8.5,Kylian Mbappé Lottin
+4389,120,France,Kylian Mbappé Lottin,Left Center Forward,Shot,Goal,108.1,40.1,120,37.6,
+4391,121,Argentina,Lionel Andrés Messi Cuccittini,Right Center Forward,Shot,Goal,108.1,40.1,120,38.3,
+4393,121,France,Kingsley Coman,Right Midfield,Shot,Saved,108.1,40.1,118.8,38.2,
+4395,122,Argentina,Paulo Bruno Exequiel Dybala,Left Center Midfield,Shot,Goal,108.1,40.1,120,40.4,
+4397,123,France,Aurélien Djani Tchouaméni,Right Defensive Midfield,Shot,Off T,108.1,40.1,120,35.6,
+4399,124,Argentina,Leandro Daniel Paredes,Center Defensive Midfield,Shot,Goal,108.1,40.1,120,37.6,
+4402,125,France,Randal Kolo Muani,Right Center Forward,Shot,Goal,108.1,40.1,120,39.3,
+4404,125,Argentina,Gonzalo Ariel Montiel,Right Wing Back,Shot,Goal,108.1,40.1,120,37.9,
